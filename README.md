@@ -1,7 +1,15 @@
 # Telling-Stories-with-Data
 
-### Sara Maillacheruvu 
+#### About me: ##### My name is Sara Maillacheruvu (she/her/hers), and I am a second year Master of Public Policy and Management - Data Analytics candidate at Carnegie Mellon University. Leveraging my strong analytical and writing skills, I am excited to communicate complex data via clear and legible visualizations to improve policymaking processes and engage communities in policy planning and evaluation. 
 
--This site compiles graphs, charts, and other data visualizations created for a course at Carnegie Mellon University.-
+I began my career working on community development issues as an urban planner and housing / grants specialist at the City of Peoria, IL. I also focused on food access issues at the City, securing $40,000 in funding to run research-in-praxis farmers markets in Peoria's Southside neighborhood. As an Emerson Fellow, I worked on federal food policy issues at the Native American Agriculture Fund and the Center on Budget and Policy Priorities, with a specific focus on land, agriculture, and commmodity distribution programs for Native American communities. 
+
+#### What I hope to learn: #### I am excited to gain an understanding of the theory behind data visualization, such as color theory, and how to leverage that theory in practice. I also look forward to creating a portfolio of work that I can iteratively improve over the course of the class, with the feedback of my classmates. I hope to leverage these skills in a career focused on policy research and evaluation, using data visualizations as a way to bridge knowledge divides. 
+
+#### Portfolio: 
+##### Project 1
+##### Project 2 
+##### Project 3
+##### Final Project 
 
 Link to the live site: https://smaillacheruvu.github.io/Telling-Stories-with-Data/
