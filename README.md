@@ -14,4 +14,3 @@ I am excited to gain an understanding of the theory behind data visualization, a
 ##### -Project 3
 ##### -Final Project 
 
-Link to the live site: https://smaillacheruvu.github.io/Telling-Stories-with-Data/
