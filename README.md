@@ -6,7 +6,7 @@ My name is Sara Maillacheruvu (she/her/hers), and I am a second year Master of P
 I began my career working on community development issues as an urban planner and housing / grants specialist at the City of Peoria, IL. I also focused on food access issues at the City, securing $40,000 in funding to run research-in-praxis farmers markets in Peoria's Southside neighborhood. As an Emerson Fellow, I worked on federal food policy issues at the Native American Agriculture Fund and the Center on Budget and Policy Priorities, with a specific focus on land, agriculture, and commmodity distribution programs for Native American communities. 
 
 ## What I hope to learn: 
-I am excited to gain an understanding of the theory behind data visualization, such as color theory, and how to leverage that theory in practice. I also look forward to creating a portfolio of work that I can iteratively improve over the course of the class, with the feedback of my classmates. I hope to leverage these skills in a career focused on policy research and evaluation, using data visualizations as a way to bridge knowledge divides. 
+I am excited to gain an understanding of the theory behind data visualization, and how to leverage that theory in practice. I also look forward to creating a portfolio of work that I can iteratively improve over the course of the class, with the feedback of my classmates. I hope to leverage these skills in a career focused on policy research and evaluation, using data visualizations as a way to bridge knowledge divides and inform policymakers in their decisionmaking.  
 
 ## Portfolio: 
 ##### -Project 1
