@@ -1,4 +1,4 @@
 ## This is the homework assignmet for visualizing government debt.
 
 
-Return to the [homepage of the repository here.](README.md)
+Return to the [homepage of the repository.](README.md)
