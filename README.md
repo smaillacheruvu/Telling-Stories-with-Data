@@ -14,7 +14,12 @@ I am excited to gain an understanding of the theory behind data visualization, a
 
 ###### -[Debt-to-GDP Ratios: Sparkline Chart](Debt_GDP_Ratios.md)
 
+
 ##### -Project 2 
+
+
 ##### -Project 3
+
+
 ##### -Final Project 
 
