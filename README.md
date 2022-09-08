@@ -9,7 +9,7 @@ I began my career working on community development issues as an urban planner an
 I am excited to gain an understanding of the theory behind data visualization, as well as how to operationalize that theory in practice. I also look forward to creating a portfolio of work that I can iteratively improve over the course of the class, with the feedback of my classmates. I hope to leverage these skills in a career focused on policy research and evaluation, using data visualizations as a way to bridge knowledge divides and inform policymakers in their decisionmaking.  
 
 ## Portfolio: 
-##### Data Visualization Assignment 1: 
+##### -Data Visualization Assignment 1: 
 ###### -[Visualizing Government Debt](Viz_govt_debt.md)
 
 ###### -[Debt-to-GDP Ratios: Sparkline Chart](Debt_GDP_Ratios.md)
