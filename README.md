@@ -1,6 +1,8 @@
 # Telling-Stories-with-Data
 
 ## About me:  
+![](IMG_1419 (4).JPG)
+
 My name is Sara Maillacheruvu (she/her/hers), and I am a second year Master of Public Policy and Management - Data Analytics candidate at Carnegie Mellon University. Leveraging my strong analytical and writing skills, I am excited to communicate complex data via clear and legible visualizations to improve policymaking processes and engage communities in policy planning and evaluation. 
 
 I began my career working on community development issues as an urban planner and housing / grants specialist at the City of Peoria, IL. I also focused on food access issues at the City, securing $40,000 in funding to run research-in-praxis farmers markets in Peoria's Southside neighborhood. As an Emerson Fellow, I worked on federal food policy issues at the Native American Agriculture Fund and the Center on Budget and Policy Priorities, with a specific focus on land, agriculture, and commmodity distribution programs for Native American communities. This past summer, I interned with the Government Accountability Office on a transportation efficiency project and am currently collaborating with a CMU research group on building an assetmapping tool for Southwestern Pennsylvania communities to use in their economic development efforts. 
