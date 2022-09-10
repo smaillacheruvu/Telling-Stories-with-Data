@@ -1,4 +1,4 @@
-# Visualizing Government Debt 
+ # Visualizing Government Debt 
 
 
 <iframe src="https://data.oecd.org/chart/6O87" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6O87" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
@@ -18,7 +18,7 @@
 
 The three visualizations above represent the same data but are conveyed in different ways. The OECD 
 
-The third visualization focuses on European countries' debt-to-GDP ratios. I wanted to create a graph that provided geographic analysis, but I noted that most of the countries in the data set are in Europe. Regionalizing the data into broad areas (Europe, Asia, etc.) did not offer nuance, nor did it lend well to trendspotting — viewers simply saw a tangle of lines, most of which were for Europe. I decided to code the data into European regions to highlight an interesting trend in the data: that southern European countries, in general, had the highest ratios across this timeframe. I colored southern European countries in magenta to visually reinforce the fact that their ratios were the highest, leveraging other colors from a colorblind-friendly palette. 
+The third visualization is a line chart that focuses on European countries' debt-to-GDP ratios from 1995 to 2019. I wanted to create a graph that contextualized the data geographically, but there were far too many countries to derive a trend at the national level. I also noted that most of the countries in the data set are European, which meant that broad continental regional analysis was largely drowned out by the web of European countries. I decided to code the data into European regions to highlight an interesting trend in the data: southern European countries, in general, have the highest ratios across this timeframe. Leveraging a colorblind-friendly palette, I chose a bold warm-toned hue (magenta) for southern European countries to visually reinforce the fact that their ratios were the highest (and that high ratios are not desirable). I colored western Europe grey because that region's data had a wide range of ratios, which, if imbued with a non-grey hue, fought against southern Europe's magenta and distracted from the message I wanted to highlight from the data. 
 
 <br/>
 
