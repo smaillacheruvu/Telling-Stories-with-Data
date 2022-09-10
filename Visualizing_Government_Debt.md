@@ -5,9 +5,6 @@
 
 <br/>
 
-
-Debt-to-GDP ratios vary for different countries across time. In general, these ratios appear to be increasing in the last 5-10 years. 
-
 <div class="flourish-embed flourish-chart" data-src="visualisation/11132696"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <br/>
@@ -19,8 +16,14 @@ Debt-to-GDP ratios vary for different countries across time. In general, these r
 
 ### Discussion: 
 
+The three visualizations above represent the same data but are conveyed in different ways. The OECD 
+
+The third visualization focuses on European countries' debt-to-GDP ratios. I wanted to create a graph that provided geographic analysis, but I noted that most of the countries in the data set are in Europe. Regionalizing the data into broad areas (Europe, Asia, etc.) did not offer nuance, nor did it lend well to trendspotting — viewers simply saw a tangle of lines, most of which were for Europe. I decided to code the data into European regions to highlight an interesting trend in the data: that southern European countries, in general, had the highest ratios across this timeframe. I colored southern European countries in magenta to visually reinforce the fact that their ratios were the highest, leveraging other colors from a colorblind-friendly palette. 
+
+<br/>
+
 *Data Sources:*
--All graphs utilize data from the OECD's online portal, [accessible here](https://data.oecd.org/gga/general-government-debt.htm)
+All graphs utilize data from the OECD's online portal, [accessible here](https://data.oecd.org/gga/general-government-debt.htm)
 
 <br/>
 
