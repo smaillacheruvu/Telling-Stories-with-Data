@@ -1,4 +1,4 @@
-<h1>Visualizing Government Debt <h1>
+Visualizing Government Debt 
 
 
 <iframe src="https://data.oecd.org/chart/6O87" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6O87" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
@@ -14,7 +14,7 @@
 
 <br/>
 
-<h3>Discussion:<h3> 
+Discussion:
 
 The three visualizations above are sourced the same data ([OECD General Government Debt Data](https://data.oecd.org/gga/general-government-debt.htm)) but convey information in different ways — and, perhaps, to different audiences. The bar chart focuses on a single year of data (2019) and compares all countries, ranking them along the x-axis from lowest to highest ratios. This allows viewers to easily compare countries across 2019, and the interactive pop-up labels for the bars make it easy to identify countries. The second graph, a sparkline facet graph, visualizes the data across time (from 1995-2019), breaking each country out into its own chart. Now, the viewer can spot trends across years in a single country, whereas the prior graph leveraged a static timeframe. However, cross-country comparisons are more difficult: comparing, for example, Greece to Germany forces the viewer to visually inspect two charts, hold information of interest from each, and then compare. The first chart serves better if we expect viewers to quickly glaze over it, whereas the second asks the viewer to take more time in digesting all it has to offer.  
 
