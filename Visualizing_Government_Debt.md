@@ -14,5 +14,6 @@ Debt-to-GDP ratios vary for different countries across time. In general, these r
 
 ### European Debt vs. GDP Graph: 
 
+<div class="flourish-embed flourish-scatter" data-src="visualisation/11140377"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Finished? Return to the [homepage of the repository.](README.md)
