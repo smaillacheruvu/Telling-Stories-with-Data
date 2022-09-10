@@ -10,10 +10,7 @@ I am excited to gain an understanding of the theory behind data visualization, a
 
 ## Portfolio: 
 ##### Data Visualization Assignment 1: 
--[Visualizing Government Debt](Visualizing_Government_Debt.md)
-###### -[Visualizing Government Debt](Viz_govt_debt.md)
-###### -[Debt-to-GDP Ratios: Sparkline Chart](Debt_GDP_Ratios.md)
-###### -[European Countries' Debt-to-GDP Ratios](European_Countries_Debt_vs_GDP.md)
+[Visualizing Government Debt](Visualizing_Government_Debt.md)
 
 
 ##### -Project 2 
