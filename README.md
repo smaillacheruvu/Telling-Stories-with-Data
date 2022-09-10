@@ -2,7 +2,7 @@
 
 ## About me:  
 
-![My Image](IMG_1419 (4).JPG)
+![My Image](image1.JPG)
 ![](https://github.com/smaillacheruvu/Telling-Stories-with-Data/blob/main/IMG_1419 (4).JPG)
 
 
