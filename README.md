@@ -1,6 +1,8 @@
 # Telling-Stories-with-Data
 
 ## About me:  
+
+![My Image](IMG_1419 (4).JPG)
 ![](https://github.com/smaillacheruvu/Telling-Stories-with-Data/blob/main/IMG_1419 (4).JPG)
 
 
