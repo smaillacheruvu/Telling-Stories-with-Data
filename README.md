@@ -12,7 +12,6 @@ I am excited to gain an understanding of the theory behind data visualization, a
 ##### Data Visualization Assignment 1: 
 [Visualizing Government Debt](Visualizing_Government_Debt.md)
 
-[Media Trust](MediaTrust.md)
 ##### -Project 2 
 
 
