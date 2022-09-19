@@ -32,3 +32,4 @@ Underlying Data:<br>
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+Finished? Return to the [homepage of the repository.](README.md)
