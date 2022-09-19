@@ -13,7 +13,7 @@ I am excited to gain an understanding of the theory behind data visualization, a
 [Visualizing Government Debt](Visualizing_Government_Debt.md)
 
 ##### Project 2: 
-[Intelligent Transprotation Systems Chart Redesign](ITS_Chart_Redesign.md)
+[Intelligent Transportation Systems Chart Redesign](ITS_Chart_Redesign.md)
 
 ##### -Project 3
 
