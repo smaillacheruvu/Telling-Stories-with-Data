@@ -9,4 +9,6 @@
 <br>
 <br>
 <br>
-<img src="C1- IMG-3653.jpg" width="200"/>
+<img src="C1- IMG-3653.jpg" width="600"/>
+<img src="C2- IMG-3654.jpg" width="600"/>
+
