@@ -31,8 +31,7 @@ To address this, I wanted to highlight in bright colors those technologies that 
     <<img src="C2- IMG-3654.jpg" width="400"/>
   </div>
 </div>
-<img src="C1- IMG-3653.jpg" width="400"/><br><br>    
-<img src="C2- IMG-3654.jpg" width="400"/>
+<br>
 <br>
 When I started on my wireframe sketches, above, I found myself struggling to find a title that effectively captured the report’s key takeaways without being verbose. I also found myself repeatedly using the word “deployed,” across both the technical and non-technical audience chart, thinking that deployed would be apparent to the viewer. Deployed, as I intended it, meant the number of responding agencies that deployed a given technology. As I would soon discover in my interviews with a data engineer in his late twenties (Interviewee A) and a student in his mid-twenties (Interviewee B), “deployed” was a serious point of misunderstanding. When asked what he thought “deployed” meant, Interviewee B said that it meant how many of a certain type of technology were in utilization in a given year, while Interviewee B stated that he wanted to know what “deployed” meant. This was a signal to me to remove, or clarify, this language in both graphs – especially in the non-technical graph – likely by adding a more descriptive y-axis title. To reinforce this, in the final version, I decided to add clarification on the survey sample in an annotation describing the sample size across years. 
 
