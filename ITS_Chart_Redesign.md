@@ -30,9 +30,6 @@ To address this, I wanted to highlight in bright colors those technologies that 
   <div class="column">
     <<img src="C2- IMG-3654.jpg" width="400"/>
   </div>
-  <div class="column">
-    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
-  </div>
 </div>
 <img src="C1- IMG-3653.jpg" width="400"/><br><br>    
 <img src="C2- IMG-3654.jpg" width="400"/>
