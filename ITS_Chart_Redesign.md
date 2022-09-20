@@ -28,7 +28,9 @@ To address this, I wanted to highlight in bright colors those technologies that 
     <img src="C1- IMG-3653.jpg" width="400"/>
   </div>
   <div class="column">
-    <<img src="C2- IMG-3654.jpg" width="400"/>
+    <<img src="C2- IMG-3654.jpg" width="400"/><br>
+<br>
+<br>
   </div>
 </div><br>
 <br>
