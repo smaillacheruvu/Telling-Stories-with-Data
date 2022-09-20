@@ -1,8 +1,6 @@
 # Intelligent Transportation Systems Chart Redesign
 
-# new test commit 1.39
-
-## Why Intelligent Transportation Systems (ITS) & Links to the Original Data
+## Why Intelligent Transportation Systems (ITS) Chart & Links to the Original Data: 
 <b>You can access the original report from which I pulled the ITS work safety zone for freeway chart [here](https://rosap.ntl.bts.gov/view/dot/60122).</b> The chart of interest is on page 21 (PDF page 31) of the report. You can reference the source data via the links at the bottom of this page.
 
 <b>I chose this visualization because it comes from a report I reviewed closely over the course my summer internship with the Government Accountability Office.</b> I worked on a project analyzing the impact of Intelligent Transportation Systems (ITS) technologies on improving traffic flow. ITS includes technologies such as ramp meters, connected vehicles, and CCTV, and its proponents note its ability to improve safety and mobility outcomes for road users — including its "Intelligent Transportation Systems Deployment Tracking Survey: 2020 Freeway Findings" report, the source of the chart I used in this exercise as well as reduce environmental impacts. (Source: [ITS DOT](https://www.its.dot.gov/factsheets/benefits_factsheet.htm#:~:text=Some%20of%20the%20most%20prominent,priority%2C%20and%20traveler%20information%20systems)). As part of this work, I analyzed reports, data, and more that the Department of Transportation (DOT) had collected on ITS technologies as well as levels of technology deployment by various local, regional, and state transportation agencies — including its "Intelligent Transportation Systems Deployment Tracking Survey: 2020 Freeway Findings" report, the source of the chart I used for this exercise.
