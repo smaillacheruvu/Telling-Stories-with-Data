@@ -1,5 +1,5 @@
 # Intelligent Transportation Systems Chart Redesign
-
+## HELLO 
 ## Why Intelligent Transportation Systems (ITS) Chart & Links to the Original Data: 
 <b>You can access the original report from which I pulled the ITS work safety zone for freeway chart [here](https://rosap.ntl.bts.gov/view/dot/60122).</b> The chart of interest is on page 21 (PDF page 31) of the report. You can reference the source data via the links at the bottom of this page.
 
@@ -68,6 +68,14 @@ The redesigned charts attempt to communicate data on the types of ITS technologi
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 Source material for technology labels in Non-Technical Chart: 
+<ul> Source material for technology labels in Non-Technical Chart: 
+<li><a href="https://www.virginiadot.org/vtrc/main/online_reports/pdf/10-r20.pdf">Virginia DOT Report</a></li>
+<li><a href="https://safety.fhwa.dot.gov/provencountermeasures/variable-speed-limits.cfm">FHWA Website</a></li>
+<li><a href="https://www.its.dot.gov/infographs/queue_warning.htm">ITS DOT Queue Warning Graphic</a></li>
+<li><a href="https://www.ison-tech.com/index.php/application/its">ISON Tech</a></li>
+<li><a href="https://www.transportation.ohio.gov/programs/traffic-operations/its#page=1">Ohio DOT</a></li>
+
+</ul>
 <ul>
   <li>[Virginia DOT Report](https://www.virginiadot.org/vtrc/main/online_reports/pdf/10-r20.pdf)</li>
   <li>[FHWA Website](https://safety.fhwa.dot.gov/provencountermeasures/variable-speed-limits.cfm)</li>
