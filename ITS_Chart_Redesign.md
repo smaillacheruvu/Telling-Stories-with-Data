@@ -1,6 +1,6 @@
 # Intelligent Transportation Systems Chart Redesign
 
-# new test commit 1.35
+# new test commit 1.36
 
 You can access the original report from which I pulled the ITS work safety zone for freeway chart [here](https://rosap.ntl.bts.gov/view/dot/60122). The chart of interest is on page 21 (PDF page 31) of the report. I have also included a screenshot of the original chart for quick reference below. You can reference the source data via the links at the bottom of this page.
 
@@ -19,10 +19,10 @@ To address this, I wanted to highlight in bright colors those technologies that 
 
 <div class="wrapper">
   <div class="column">
-    <img src="C1- IMG-3653.jpg" width="400"/ class="center">
+    <img src="C1- IMG-3653.jpg" width="400"/>
   </div>
   <div class="wrapper">
-    <img src="C2- IMG-3654.jpg" width="400"/ class="center">
+    <img src="C2- IMG-3654.jpg" width="400"/>
   </div><br>
 </div>
 <br>
