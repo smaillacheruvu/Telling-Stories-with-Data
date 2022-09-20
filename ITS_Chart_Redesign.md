@@ -1,15 +1,8 @@
 # Intelligent Transportation Systems Chart Redesign
 
-# new test commit 1.1
+# new test commit 1.2
 
-You can access the original report from which I pulled the ITS work safety zone for freeway chart [here](https://rosap.ntl.bts.gov/view/dot/60122). The chart of interest is on page 21 (PDF page 31) of the report. I have also included a screenshot of the original chart for quick reference below. You can reference the source data via the links below.
-
-Chart Data Sources:<br>
--[2020](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.itskrs.its.dot.gov%2Fsites%2Fdefault%2Ffiles%2Fdoc%2F2020_FM_data.xlsx&wdOrigin=BROWSELINK)
-<br>
--[2016](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.itskrs.its.dot.gov%2Fsites%2Fdefault%2Ffiles%2Fdeployment-statistics%2Fdata%2F2016%2F2016_FM_data.xlsx&wdOrigin=BROWSELINK)
-<br>
--[2013](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.itskrs.its.dot.gov%2Fsites%2Fdefault%2Ffiles%2Fdeployment-statistics%2Fdata%2F2013%2F2013_FM_data.xlsx&wdOrigin=BROWSELINK) 
+You can access the original report from which I pulled the ITS work safety zone for freeway chart [here](https://rosap.ntl.bts.gov/view/dot/60122). The chart of interest is on page 21 (PDF page 31) of the report. I have also included a screenshot of the original chart for quick reference below. You can reference the source data via the links at the bottom of this page.
 
 First, I selected a data visualization. As detailed above, I choose the chart on ITS safety in work zones because I had familiarity with the data and subject area. I also wanted to try to figure out a way to convey technical information to two audiences: 1) a technical  audience of practitioners familiar with ITS and its jargon, and 2) a non-technical “lay” audience comprised of people unfamiliar with ITS. 
 
@@ -23,6 +16,7 @@ I also wanted to improve the aesthetics of the chart, in an effort to make in mo
 
 To address this, I wanted to highlight in bright colors those technologies that a higher percentage of agencies deployed over time, which the report cites as “moveable” technologies (Portable CCTV and Portable Traffic Monitoring Devices) and Queue Detection Systems. This would engage the viewer’s eye in the most important information, which I would reinforce with a descriptive title highlighting the key takeaways. In essence, I wanted to leverage the themes in the report writeup as visual guides in the chart, to ensure that a report reviewer casually flipping through could glean the key takeaways without having to sift through the full context of the writeup. 
 <br>
+<center>
 <div class="row">
   <div class="column">
     <img src="C1- IMG-3653.jpg" width="400"/>
@@ -33,6 +27,7 @@ To address this, I wanted to highlight in bright colors those technologies that 
 <br>
 <br>
 </div>
+<center>
 <br>
 <br>
 <br>
@@ -65,6 +60,16 @@ The redesigned charts attempt to communicate data on the types of ITS technologi
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+  
+<br>
+Chart Data Sources:<br>
+-[2020](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.itskrs.its.dot.gov%2Fsites%2Fdefault%2Ffiles%2Fdoc%2F2020_FM_data.xlsx&wdOrigin=BROWSELINK)
+<br>
+-[2016](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.itskrs.its.dot.gov%2Fsites%2Fdefault%2Ffiles%2Fdeployment-statistics%2Fdata%2F2016%2F2016_FM_data.xlsx&wdOrigin=BROWSELINK)
+<br>
+-[2013](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.itskrs.its.dot.gov%2Fsites%2Fdefault%2Ffiles%2Fdeployment-statistics%2Fdata%2F2013%2F2013_FM_data.xlsx&wdOrigin=BROWSELINK) 
 
+  
+  
 <br>
 Finished? Return to the [homepage of the repository.](README.md)
