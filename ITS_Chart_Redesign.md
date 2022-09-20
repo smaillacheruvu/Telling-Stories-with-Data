@@ -2,6 +2,7 @@
 
 # new test commit 1.39
 
+## Why Intelligent Transportation Systems (ITS) & Links to the Original Data
 You can access the original report from which I pulled the ITS work safety zone for freeway chart [here](https://rosap.ntl.bts.gov/view/dot/60122). The chart of interest is on page 21 (PDF page 31) of the report. I have also included a screenshot of the original chart for quick reference below. You can reference the source data via the links at the bottom of this page.
 
 First, I selected a data visualization. As detailed above, I choose the chart on ITS safety in work zones because I had familiarity with the data and subject area. I also wanted to try to figure out a way to convey technical information to two audiences: 1) a technical  audience of practitioners familiar with ITS and its jargon, and 2) a non-technical “lay” audience comprised of people unfamiliar with ITS. 
@@ -65,7 +66,15 @@ The redesigned charts attempt to communicate data on the types of ITS technologi
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-
+Source material for technology labels in Non-Technical Chart: 
+<ul>
+  <li>[Virginia DOT Report](https://www.virginiadot.org/vtrc/main/online_reports/pdf/10-r20.pdf)</li>
+  <li>[FHWA Website](https://safety.fhwa.dot.gov/provencountermeasures/variable-speed-limits.cfm)</li>
+  <li>[ITS DOT Queue Warning Graphic](https://www.its.dot.gov/infographs/queue_warning.htm)</li>
+  <li>[ISON Tech]()https://www.ison-tech.com/index.php/application/its<li>
+  <li>[Ohio DOT](https://www.transportation.ohio.gov/programs/traffic-operations/its#page=1)<li>
+</ul>https://www.virginiadot.org/vtrc/main/online_reports/pdf/10-r20.pdf
+https://safety.fhwa.dot.gov/provencountermeasures/variable-speed-limits.cfm
 
 <br>
 Chart Data Sources:<br>
