@@ -76,6 +76,7 @@ Source material for technology labels in Non-Technical Chart:
 <li><a href="https://www.ison-tech.com/index.php/application/its">ISON Tech</a></li>
 <li><a href="https://www.transportation.ohio.gov/programs/traffic-operations/its#page=1">Ohio DOT</a></li>
 <li><a href="https://www.itskrs.its.dot.gov/node/209197"><Queue Study></a></li>
+</ul>
 <br>
 DOT ITS Survey Data:<br>
 -[2020](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.itskrs.its.dot.gov%2Fsites%2Fdefault%2Ffiles%2Fdoc%2F2020_FM_data.xlsx&wdOrigin=BROWSELINK)
@@ -83,7 +84,10 @@ DOT ITS Survey Data:<br>
 -[2016](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.itskrs.its.dot.gov%2Fsites%2Fdefault%2Ffiles%2Fdeployment-statistics%2Fdata%2F2016%2F2016_FM_data.xlsx&wdOrigin=BROWSELINK)
 <br>
 -[2013](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.itskrs.its.dot.gov%2Fsites%2Fdefault%2Ffiles%2Fdeployment-statistics%2Fdata%2F2013%2F2013_FM_data.xlsx&wdOrigin=BROWSELINK) 
-
+<br>
+HTML References:<br>
+-https://stackoverflow.com/questions/18413660/html-how-to-insert-links-into-ordered-unordered-lists
+-https://www.w3schools.com/howto/howto_css_images_side_by_side.asp
   
   
 <br>
