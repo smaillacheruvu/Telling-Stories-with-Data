@@ -77,19 +77,8 @@ Source material for technology labels in Non-Technical Chart:
 <li><a href="https://www.its.dot.gov/infographs/queue_warning.htm">ITS DOT Queue Warning Graphic</a></li>
 <li><a href="https://www.ison-tech.com/index.php/application/its">ISON Tech</a></li>
 <li><a href="https://www.transportation.ohio.gov/programs/traffic-operations/its#page=1">Ohio DOT</a></li>
-
-</ul>
-<ul>
-  <li>[Virginia DOT Report](https://www.virginiadot.org/vtrc/main/online_reports/pdf/10-r20.pdf)</li>
-  <li>[FHWA Website](https://safety.fhwa.dot.gov/provencountermeasures/variable-speed-limits.cfm)</li>
-  <li>[ITS DOT Queue Warning Graphic](https://www.its.dot.gov/infographs/queue_warning.htm)</li>
-  <li>[ISON Tech]()https://www.ison-tech.com/index.php/application/its<li>
-  <li>[Ohio DOT](https://www.transportation.ohio.gov/programs/traffic-operations/its#page=1)<li>
-</ul>https://www.virginiadot.org/vtrc/main/online_reports/pdf/10-r20.pdf
-https://safety.fhwa.dot.gov/provencountermeasures/variable-speed-limits.cfm
-
 <br>
-Chart Data Sources:<br>
+DOT ITS Survey Data:<br>
 -[2020](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.itskrs.its.dot.gov%2Fsites%2Fdefault%2Ffiles%2Fdoc%2F2020_FM_data.xlsx&wdOrigin=BROWSELINK)
 <br>
 -[2016](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.itskrs.its.dot.gov%2Fsites%2Fdefault%2Ffiles%2Fdeployment-statistics%2Fdata%2F2016%2F2016_FM_data.xlsx&wdOrigin=BROWSELINK)
