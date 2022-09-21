@@ -75,7 +75,7 @@ Source material for technology labels in Non-Technical Chart:
 <li><a href="https://www.its.dot.gov/infographs/queue_warning.htm">ITS DOT Queue Warning Graphic</a></li>
 <li><a href="https://www.ison-tech.com/index.php/application/its">ISON Tech</a></li>
 <li><a href="https://www.transportation.ohio.gov/programs/traffic-operations/its#page=1">Ohio DOT</a></li>
-<li><a href="https://www.itskrs.its.dot.gov/node/209197"><Queue Study></a><li>
+<li><a href="https://www.itskrs.its.dot.gov/node/209197"><Queue Study></a></li>
 <br>
 #### DOT ITS Survey Data:<br>
 -[2020](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.itskrs.its.dot.gov%2Fsites%2Fdefault%2Ffiles%2Fdoc%2F2020_FM_data.xlsx&wdOrigin=BROWSELINK)
