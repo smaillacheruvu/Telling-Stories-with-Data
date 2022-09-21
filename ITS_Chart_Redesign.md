@@ -69,15 +69,12 @@ The redesigned charts attempt to communicate data on the types of ITS technologi
 </script>
 <br>
 Source material for technology labels in Non-Technical Chart: 
-<ul> Source material for technology labels in Non-Technical Chart: 
-<li><a href="https://www.virginiadot.org/vtrc/main/online_reports/pdf/10-r20.pdf">Virginia DOT Report</a></li>
-<li><a href="https://safety.fhwa.dot.gov/provencountermeasures/variable-speed-limits.cfm">FHWA Website</a></li>
-<li><a href="https://www.its.dot.gov/infographs/queue_warning.htm">ITS DOT Queue Warning Graphic</a></li>
-<li><a href="https://www.ison-tech.com/index.php/application/its">ISON Tech</a></li>
-<li><a href="https://www.transportation.ohio.gov/programs/traffic-operations/its#page=1">Ohio DOT</a></li>
-<li><a href="https://www.itskrs.its.dot.gov/node/209197"><Queue Study></a></li>
-</ul>
-
+-https://www.virginiadot.org/vtrc/main/online_reports/pdf/10-r20.pdf
+-https://safety.fhwa.dot.gov/provencountermeasures/variable-speed-limits.cfm
+-https://www.its.dot.gov/infographs/queue_warning.htm
+-https://www.ison-tech.com/index.php/application/its
+-https://www.transportation.ohio.gov/programs/traffic-operations/its#page=1
+-https://www.itskrs.its.dot.gov/node/209197
 <br>
 DOT ITS Survey Data:
 -[2020](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.itskrs.its.dot.gov%2Fsites%2Fdefault%2Ffiles%2Fdoc%2F2020_FM_data.xlsx&wdOrigin=BROWSELINK)
