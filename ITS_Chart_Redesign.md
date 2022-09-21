@@ -41,11 +41,10 @@ The feedback for the non-technical audience chart was strong. <b>While I tried t
 Interviewee A also expressed that a nontechnical audience member probably wouldn’t feel that there were any “stakes” to the chart – the layout presented information, but there wasn’t a “why” to hook someone with little exposure to the topic. This was a point well taken when I was reconsidering the title of the chart. <b>I decided to emphasize how ITS can improve safety in work zones in the title, since road safety feels more relatable and less intimidating than technologies readers may have never heard of.</b> I then used annotations to describe what each of the three technologies were. In addition, on the feedback from Interviewee A, who said that the sample size annotation might be confusing to a lay audience member, I removed information on the sample size across years for the non-technical chart.
 
 The redesigned charts attempt to communicate data on the types of ITS technologies that transportation agencies use in freeway work zones to both a technical and nontechnical audience. For the technical audience graph, <b>the interviewees’ feedback allowed me to finetune the changes I had already begun implementing in the wireframes:</b>  transforming the stacked bar chart into a line chart and using color to highlight technologies that more agencies used over time. For the nontechnical audience chart, the interviewees’ feedback led me back to the drawing board. <b>Having sat with the data for a summer, I realized that I assumed that people might be more interested in ITS, but the interviews made me realize that I had to make the case for ITS if I wanted to engage people in the subject area.</b> I began to reimagine what would be manageable for someone with no background – or interest – in the topic. I continued to maintain a line chart format, but I settled upon a more general title that might draw readers in with the relatable theme of road safety. I then offered information on the selected technologies as annotations to provide context for the reader to go deeper. 
-
 <br>
 <br>
-
 ## Final Charts: 
+<br>
 ### Technical Audience Chart: 
 <div class='tableauPlaceholder' id='viz1663616168528' style='position: relative'><noscript><a href='#'><img alt='Increase in agencies reporting deployment of queue detection and portable technologies in freeway work zones State, regional, and local agencies managing freeways leverage different technologies to increase safety and mobility across survey years ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Te&#47;TechnicalAudience&#47;TechAudience&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TechnicalAudience&#47;TechAudience' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Te&#47;TechnicalAudience&#47;TechAudience&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object>
 </div>                
@@ -57,7 +56,6 @@ The redesigned charts attempt to communicate data on the types of ITS technologi
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-<br>
 <br>
 ### Non-Technical Audience Chart: 
 <div class='tableauPlaceholder' id='viz1663710777942' style='position: relative'><noscript><a href='#'><img alt='Technology can improve safety outcomes in freeway work zones — but transportation agencies prefer some over others ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NO&#47;NONTechnicalAudience&#47;NonTechAudience-REAL&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='NONTechnicalAudience&#47;NonTechAudience-REAL' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NO&#47;NONTechnicalAudience&#47;NonTechAudience-REAL&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object>
@@ -78,7 +76,7 @@ Source material for technology labels in Non-Technical Chart:
 <li><a href="https://www.ison-tech.com/index.php/application/its">ISON Tech</a></li>
 <li><a href="https://www.transportation.ohio.gov/programs/traffic-operations/its#page=1">Ohio DOT</a></li>
 <br>
-DOT ITS Survey Data:<br>
+#### DOT ITS Survey Data:<br>
 -[2020](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.itskrs.its.dot.gov%2Fsites%2Fdefault%2Ffiles%2Fdoc%2F2020_FM_data.xlsx&wdOrigin=BROWSELINK)
 <br>
 -[2016](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.itskrs.its.dot.gov%2Fsites%2Fdefault%2Ffiles%2Fdeployment-statistics%2Fdata%2F2016%2F2016_FM_data.xlsx&wdOrigin=BROWSELINK)
