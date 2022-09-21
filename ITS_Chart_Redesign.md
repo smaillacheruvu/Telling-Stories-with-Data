@@ -67,7 +67,7 @@ The redesigned charts attempt to communicate data on the types of ITS technologi
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 <br>
-Source material for technology labels in Non-Technical Chart: <br>
+#### Source material for technology labels in Non-Technical Chart: <br>
 -[VA DOT](https://www.virginiadot.org/vtrc/main/online_reports/pdf/10-r20.pdf)<br>
 -[FHWA](https://safety.fhwa.dot.gov/provencountermeasures/variable-speed-limits.cfm)<br>
 -[ITS DOT Site](https://www.its.dot.gov/infographs/queue_warning.htm)<br>
@@ -75,7 +75,7 @@ Source material for technology labels in Non-Technical Chart: <br>
 -[Ohio DOT](https://www.transportation.ohio.gov/programs/traffic-operations/its#page=1)<br>
 -[Queue Study](https://www.itskrs.its.dot.gov/node/209197)<br>
 <br>
-DOT ITS Survey Data:
+#### DOT ITS Survey Data:
 <br>
 -[2020](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.itskrs.its.dot.gov%2Fsites%2Fdefault%2Ffiles%2Fdoc%2F2020_FM_data.xlsx&wdOrigin=BROWSELINK)
 <br>
@@ -84,7 +84,7 @@ DOT ITS Survey Data:
 -[2013](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.itskrs.its.dot.gov%2Fsites%2Fdefault%2Ffiles%2Fdeployment-statistics%2Fdata%2F2013%2F2013_FM_data.xlsx&wdOrigin=BROWSELINK) 
 <br>
 <br>
-HTML References:<br>
+#### HTML References:<br>
 -[Stack - Lists](https://stackoverflow.com/questions/18413660/html-how-to-insert-links-into-ordered-unordered-lists)
 -[W3School - Images](https://www.w3schools.com/howto/howto_css_images_side_by_side.asp)
   
