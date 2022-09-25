@@ -4,7 +4,7 @@ In 2020, over 1 in 4 U.S. households experienced energy insecurity, a term that 
 <br>
 ### Project Structure: 
 #### Set-Up: Establish the emotional stakes of energy insecurity 
-I realize that, as a concept, energy security may be ambiguous, vague, and unfelt for most of my readers. So, in the set-up of the project, I want to establish the emotional stakes of energy insecurity with either a story, quote, or image, framed with a nudge that makes the reader think about energy insecurity in their own life: have <em>they<em> ever turned off the heater or AC to save money, making their home too hot or too cold in the process? 
+I realize that, as a concept, energy security may be ambiguous, vague, and unfelt for most of my readers. So, in the set-up of the project, I want to establish the emotional stakes of energy insecurity with either a story, quote, or image, framed with a nudge that makes the reader think about energy insecurity in their own life: have <em>they</em> ever turned off the heater or AC to save money, making their home too hot or too cold in the process? 
 
 
 
