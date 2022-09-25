@@ -31,5 +31,5 @@ In addition, I am interested in using the [2020 Household Energy Insecurity data
 <b>To combine my charts, graphics, and text write-ups, I will use Shorthand</b>. I expect there may be some iteration in embedding Tableau and Flourish graphics to Shorthand – perhaps a chart’s aspect ratio will change upon upload – so I will budget time to work through potential hiccups. Shorthand’s capabilities are many – scrolling, zooming in, etc. – and I will explore these features to find a presentation flow that balances user engagement with navigability
 
 
-Finished? Return to the [homepage of the repository.](README.md)
+<b>Finished?</b> Return to the [homepage of the repository.](README.md)
 
