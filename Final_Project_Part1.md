@@ -14,6 +14,8 @@ Next, I want to show the reader the <b>who, what, and where of energy insecurity
 #### Resolution: Policy interventions 
 At this stage, the reader will ideally have both an emotional connection to the topic, as well as a firmer grasp on what energy insecurity constitutes and who it impacts. With this established, I want to end with forward-thinking policy interventions, <b>reinforcing that energy insecurity is only likely to get worse in the future with climate change</b> – that is, establishing the <em>urgency</em> of the action. Some suggested solutions might include expansion of existing programs, such as the Low Income Home Energy Assistance Program and the Weatherization Assistance Program, as well as novel energy efficiency programs that are climate-resilient, targeted to low-income populations.  
 
+## Sketches: 
+
 ## Data:
 <b>I will source the bulk of my data from the U.S. Energy Information Administration (EIA), in particular from the Residential Energy Consumption Survey (RECS).</b> You can access the [landing page of the data here]( https://www.eia.gov/consumption/residential/data/2020/) and download the CSVs for years and topics of interest. While the EIA provides [data dating back to 1980](https://www.eia.gov/consumption/residential/data/previous.php), I anticipate that I will focus on more recent years, likely from 2000 onward. Importantly, the EIA did not begin explicitly tracking energy insecurity in RECS until 2015. Therefore, my ability to make temporal comparisons on energy insecurity is limited. However, I can comment on changes in types of fuels and levels of consumption over time, pieces of information which are tracked across survey years. 
 
