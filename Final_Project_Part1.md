@@ -9,12 +9,12 @@ I realize that, as a concept, energy security may be ambiguous, vague, and unfel
 #### Conflict: The who, what, and where of energy insecurity 
 Next, I want to show the reader the <b>who, what, and where of energy insecurity</b>: who experiences energy insecurity at the greatest rates, what causes energy insecurity, and where energy insecurity is concentrated. I will accomplish this through a series of charts, graphics, and maps, in addition to text description of the issues. I plan to include the following visualizations: 
 <ul>
-  <li>Unit chart showing that 27%, or roughly 1 in 4, households experience energy insecurity<li>
+  <li>Unit chart showing that 27%, or roughly 1 in 4, households experience energy insecurity</li>
   <li>Map demonstrating where energy insecurity rates are highest across the country</li>
   <li>Chart (considering a tree graph) showing how households cope in the face of energy insecurity</li>
-  <li>Chart showing the different ways that households experience energy insecurity (no AC, no heating, etc.)<li>
-  <li>Chart on changing levels of domestic energy usage and the number of days requiring energy to heat and cool homes<li>
-  <li>Chart showcasing the increase in heat-related deaths<li>
+  <li>Chart showing the different ways that households experience energy insecurity (no AC, no heating, etc.)</li>
+  <li>Chart on changing levels of domestic energy usage and the number of days requiring energy to heat and cool homes</li>
+  <li>Chart showcasing the increase in heat-related deaths</li>
 </ul>
 I hope that the chart on coping mechanisms will further elicit pathos from the reader and embody the issue further: thinking about someone skipping a meal so that they can keep the heat on makes the issue all the more tangible. In addition, I want to sow the seed that climate change will only exacerbate energy insecurity and for the most vulnerable populations, as this is a part of my call-to-action. 
 
