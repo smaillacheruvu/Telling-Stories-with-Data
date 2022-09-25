@@ -4,6 +4,13 @@ In 2020, over 1 in 4 U.S. households experienced energy insecurity, a term that 
 <br>
 ### Project Structure: 
 
+## Data:
+I will source the bulk of my data from the U.S. Energy Information Administration (EIA), in particular from the Residential Energy Consumption Survey (RECS). You can access the [landing page of the data here]( https://www.eia.gov/consumption/residential/data/2020/), downloading the CSVs for years and topics of interest. While the EIA provides [data dating back to 1980](https://www.eia.gov/consumption/residential/data/previous.php), I anticipate that I will focus on more recent years, likely from 2000 onward. Importantly, the EIA did not begin explicitly tracking energy insecurity in RECS until 2015. Therefore, my ability to make temporal comparisons on energy insecurity is limited. However, I can comment on changes in types of fuels and levels of consumption over time. To supplement this, I will leverage academic studies as possible
+
+The EIA provides state-level and US region level data, so I anticipate that I will make maps to highlight geographic trends in the data. Since energy insecurity is tied to household’s income as well as the quality of a home (older or more poorly insulated homes are likely to require more energy), I am particularly excited by a [table from the 2020 RECS on structural characteristics of homes for different states]( https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.eia.gov%2Fconsumption%2Fresidential%2Fdata%2F2020%2Fstate%2Fxls%2FState%2520Structural%2520Characteristics.xlsx&wdOrigin=BROWSELINK), which includes data on when homes were built, the types of windows used (important for insulation), and power outages. I may try to overlay this with income data to point to states that may be particularly vulnerable to energy insecurity. 
+
+
+
 ## Method and Medium: 
 <b>I will use Flourish, Tableau, and other packages (as needed) to create charts and graphics for the final project</b>. In addition to the visualizations, I will write a text narrative to guide readers through the project, providing content to enrich the visuals. For more complex charts, I will offer summaries and provide the required information for casual readers to quickly understand them. However, I will aim for simplicity in creating visualizations to make the project as accessible possible. Further, I am to avoid jargon and technical terms that would confuse casual readers – if I find myself needing to use technical language, I will explain terms upon first use. 
 
