@@ -34,7 +34,7 @@ At this stage, the reader will ideally have both an emotional connection to the 
 <img src="Map.gif" class="center">
 
 <b>Sketch 4:</b> This bubble chart depicts how households cope or are forced to cope with energy insecurity. Some reduce food consumption, while others are unable to use heating or cooling facilities. I would love to feature quotes from people with lived experience alongside this chart, to make these summary statistics more felt. 
-<img src="IMG-3685.jpg” class=“center”>
+<img src="IMG-3685.jpg" class=“center”>
 
 
 
