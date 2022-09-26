@@ -29,16 +29,15 @@ At this stage, the reader will ideally have both an emotional connection to the 
 <img src="IMG-3684_1.jpg" class="center">
 
 <b>Sketch 3:</b> Energy insecurity has important geographic dimensions: certain regions across the U.S. experience it at greater rates, and the ways that different regions of the country experience it vary. For example, households in Maine are more likely to face challenges in heating their homes during cold weather months, whereas households in Arizona are more likely to need cooling facilities. The map will allow viewers to scroll over high insecurity states to see what their rates and energy needs are. A text summary of overarching needs and trends will also be provided.
-<img src="Map.gif" class="center">
+<img src="Map.gif" class="center"><br>
 
 <b>Sketch 4:</b> This bubble chart depicts how households cope or are forced to cope with energy insecurity. Some reduce food consumption, while others are unable to use heating or cooling facilities. I would love to feature quotes from people with lived experience alongside this chart, to make these summary statistics more felt. 
-<img src="IMG-3685.jpg" class="center">
+<img src="IMG-3685.jpg" class="center"><br>
 
 <b>Sketch 5:</b> This image includes the header for a section ("Climate change deepens risks for the most vulnerable"). It also includes a line chart depicting the change in heat-related deaths over roughly the past three decades (the dataset ends in 2018). This chart will be a visual entry point into showing how climate change deepens energy insecurity risks, especially for the most vulnerable households and families.
-<img src="IMG-3687.jpg" class="center">
+<img src="IMG-3687.jpg" class="center"><br>
 
-<b>Sketch 6:</b> This final sketch is a mockup of my closing screen: a set of policy interventions that can decrease energy insecurity. In addition to clearly outlining the action items with icons, I also want to remind readers of the stakes of the issue, given increasing effects of climate change.  <img src="IMG-3688.jpg" class="center">
-
+<b>Sketch 6:</b> This final sketch is a mockup of my closing screen: a set of policy interventions that can decrease energy insecurity. In addition to clearly outlining the action items with icons, I also want to remind readers of the stakes of the issue, given increasing effects of climate change.  <img src="IMG-3688.jpg" class="center"><br>
 
 ## Data:
 <b>I will source the bulk of my data from the U.S. Energy Information Administration (EIA), in particular from the Residential Energy Consumption Survey (RECS).</b> You can access the [landing page of the data here]( https://www.eia.gov/consumption/residential/data/2020/) and download the CSVs for years and topics of interest. While the EIA provides [data dating back to 1980](https://www.eia.gov/consumption/residential/data/previous.php), I anticipate that I will focus on more recent years, likely from 2000 onward. Importantly, the EIA did not begin explicitly tracking energy insecurity in RECS until 2015. Therefore, my ability to make temporal comparisons on energy insecurity is limited. However, I can comment on changes in types of fuels and levels of consumption over time, pieces of information which are tracked across survey years. 
