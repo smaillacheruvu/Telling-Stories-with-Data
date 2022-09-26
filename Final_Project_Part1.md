@@ -28,6 +28,7 @@ At this stage, the reader will ideally have both an emotional connection to the 
 <img src="Sketch1.gif" height="600" width="472.5" class="center">
 
 <b>Sketch 2:</b> This sketch is a unit chart showing how many people across the U.S. experience energy insecurity. After building a bit of engagement with the first sketch, I want to start digging into the data, highlighting the fact that energy insecurity is a widespread phenomenon. A simple unit chart, using a relevant graphic, should make a nice way to transition into the stats. 
+<img src="IMG-3684_1.jpg" class="center">
 
 <b>Sketch 3:</b> Energy insecurity has a geographic dimension: some regions across the U.S. experience it at 
 <img src="Map.gif" class="center">
