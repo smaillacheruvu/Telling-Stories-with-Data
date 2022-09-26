@@ -25,7 +25,7 @@ At this stage, the reader will ideally have both an emotional connection to the 
 
 ## Sketches: 
 <b>Sketch 1:</b> This sketch is of the very first screen I want to show viewers: a question prompt, paired with a scene, getting viewers to think about energy insecurity in their own life. After a few moments of reflection, a pop-up will appear introducing the concept of energy insecurity. In this sketch, I have hand-drawn a scene of a woman bundled up inside her apartment, with a wintry scene in the background and a radiator adjacent to her. These visual cues are meant to hint at the main elements of the story: weather/climate, heating/cooling facilities, and their impact on people. Since this is rather specific, I don't think I'll be able to find an open source image combining all of these elements. I anticipate that I'll have to — and am excited to — draw another, cleaner version of this scene for the final collation in Shorthand. <br>
-<img src="Sketch1.gif" height="600" width="472.5" class="center">
+<img src="Sketch1.gif" class="center" height="600" width="472.5" class="center">
 
 <b>Sketch 2:</b> This sketch is a unit chart showing how many people across the U.S. experience energy insecurity. After building a bit of engagement with the first sketch, I want to start digging into the data, highlighting the fact that energy insecurity is a widespread phenomenon. A simple unit chart, using a relevant graphic, should make a nice way to transition into the stats. 
 <img src="IMG-3684_1.jpg" class="center">
