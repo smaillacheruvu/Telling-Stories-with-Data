@@ -12,7 +12,6 @@ Next, I want to show the reader the <b>who, what, and where of energy insecurity
   <li>Unit chart showing that 27%, or roughly 1 in 4, households experience energy insecurity</li>
   <li>Map demonstrating where energy insecurity rates are highest across the country</li>
   <li>Chart showing how households cope in the face of energy insecurity</li>
-  <li>Chart on changing levels of domestic energy usage and the number of days requiring energy to heat and cool homes</li>
   <li>Chart showcasing the increase in heat-related deaths</li>
 </ul>
 I hope that the chart on coping mechanisms will further elicit pathos from the reader and embody the issue further: thinking about someone skipping a meal so that they can keep the heat on makes the issue all the more tangible. In addition, I want to sow the seed that climate change will only exacerbate energy insecurity and for the most vulnerable populations, as this is a part of my call-to-action. 
