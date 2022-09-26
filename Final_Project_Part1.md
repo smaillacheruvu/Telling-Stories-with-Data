@@ -37,6 +37,7 @@ At this stage, the reader will ideally have both an emotional connection to the 
 <b>Sketch 5:</b> This image includes the header for a section ("Climate change deepens risks for the most vulnerable"). It also includes a line chart depicting the change in heat-related deaths over roughly the past three decades (the dataset ends in 2018). This chart will be a visual entry point into showing how climate change deepens energy insecurity risks, especially for the most vulnerable households and families.
 <img src="IMG-3687.jpg" class="center">
 
+<b>Sketch 6:</b> This final sketch is a mockup of my closing screen: a set of policy interventions that can decrease energy insecurity. In addition to clearly outlining the action items with icons, I also want to remind readers of the stakes of the issue, given increasing effects of climate change.  <img src="IMG-3688.jpg" class="center">
 
 
 ## Data:
