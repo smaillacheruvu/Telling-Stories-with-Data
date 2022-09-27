@@ -27,7 +27,7 @@ At this stage, the reader will ideally have both an emotional connection to the 
 
 <b>Sketch 2:</b> This sketch is a unit chart showing how many people across the U.S. experience energy insecurity. Based on the feedback from the in-class critique session, I have added a title explicitly defining energy insecurity, instead of having the definition in text as I originally did. After building a bit of engagement with the first sketch, I want to start digging into the data, highlighting the fact that energy insecurity is a widespread phenomenon. A simple unit chart, using a relevant graphic, should make a nice way to transition into the stats.<br><br>
 <b>Energy insecurity is [“the inability to meet basic household energy needs”](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5114037/)</b>
-<img src="IMG-3684_1.jpg" class="center">
+<img src="IMG-3684_2.jpg" class="center">
 
 <b>Sketch 3:</b> Energy insecurity has important geographic dimensions: certain regions across the U.S. experience it at greater rates, and the ways that different regions of the country experience it vary. For example, households in Maine are more likely to face challenges in heating their homes during cold weather months, whereas households in Arizona are more likely to need cooling facilities. The map will allow viewers to scroll over high insecurity states to see what their rates and energy needs are. A text summary of overarching needs and trends will also be provided.
 <img src="Map.gif" class="center"><br>
