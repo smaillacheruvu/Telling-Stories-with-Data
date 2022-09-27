@@ -26,6 +26,7 @@ At this stage, the reader will ideally have both an emotional connection to the 
 <img src="Sketch1.gif" class="center" height="600" width="472.5" class="center">
 
 <b>Sketch 2:</b> This sketch is a unit chart showing how many people across the U.S. experience energy insecurity. After building a bit of engagement with the first sketch, I want to start digging into the data, highlighting the fact that energy insecurity is a widespread phenomenon. A simple unit chart, using a relevant graphic, should make a nice way to transition into the stats. 
+
 <img src="IMG-3684_1.jpg" class="center">
 
 <b>Sketch 3:</b> Energy insecurity has important geographic dimensions: certain regions across the U.S. experience it at greater rates, and the ways that different regions of the country experience it vary. For example, households in Maine are more likely to face challenges in heating their homes during cold weather months, whereas households in Arizona are more likely to need cooling facilities. The map will allow viewers to scroll over high insecurity states to see what their rates and energy needs are. A text summary of overarching needs and trends will also be provided.
@@ -51,6 +52,11 @@ To supplement the EIA data, I will also leverage data from the Environmental Pro
 <b>I will use Flourish, Tableau, and other packages (as needed) to create charts and graphics for the final project</b>. In addition to the visualizations, I will write a text narrative to guide readers through the project, providing content to enrich the visuals. For more complex charts, I will offer summaries and provide the required information for casual readers to quickly understand them. However, I will aim for simplicity in creating visualizations to make the project as accessible possible. Further, I am to avoid jargon and technical terms that would confuse casual readers – if I find myself needing to use technical language, I will explain terms upon first use. 
 
 <b>To combine my charts, graphics, and text write-ups, I will use Shorthand</b>. I expect there may be some iteration in embedding Tableau and Flourish graphics to Shorthand – perhaps a chart’s aspect ratio will change upon upload – so I will budget time to work through potential hiccups. Shorthand’s capabilities are many – scrolling, zooming in, etc. – and I will explore these features to find a presentation flow that balances user engagement with navigability
+
+## Feedback: 
+During the critique on Tuesday, my group shared valuable feedback. <b>One member said that she wasn't sure at first what energy insecurity was, suggesting that the term be explicitly defined in simple terms.</b> To address this "high-value, high-feasibility" piece of feedback, I have pulled out the definition of energy insecurity into a header, highlighting the key terms. In future iterations of the project, I may consider modifying the definition to use hyper-accessible language, but in this version, I have simply maintained the Hern&aacute;ndez definition. 
+
+Another member  mentioned that adding a time component to the visualization would show energy insecurity  has changed over time. This is a great point, and one I want to consider further in putting together the final project. However, at present I am currently constrained by the data that I have, as it only tracks energy insecurity from 2015 to 2020, limiting my ability to make temporal comparisons. So, this is a lower feasibility modification in the short term, but a valuable one for future drafts. 
 
 
 <b>Finished?</b> Return to the [homepage of the repository.](README.md)
