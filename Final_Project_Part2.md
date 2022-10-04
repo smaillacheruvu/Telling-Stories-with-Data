@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <th>What didn't you like?</th>
-    <td>Color scheme is not consistent</td>
+    <td>Color scheme is not consistent.</td>
     <td>The "What can we do?" section felt vague. Give more info on why the programs identified would address energy insecurity, perahps with a worked example.</td>
     <td>C</td>
   </tr>
