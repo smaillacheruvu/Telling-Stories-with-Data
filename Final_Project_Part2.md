@@ -2,9 +2,10 @@
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Question</th>
+    <th>Person 1</th>
+    <th>Person 2</th>
+    <th>Person 3<th>
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>
@@ -17,5 +18,9 @@
     <td>Mexico</td>
   </tr>
 </table>
+  
+<br>
+#### HTML Sources: 
+- [WSL, How to Make a Table](https://www.w3schools.com/html/html_tables.asp)
 <br>
 Finished? Return to the [homepage of the repository.](README.md)
