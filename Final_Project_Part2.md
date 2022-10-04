@@ -1,5 +1,25 @@
-<b>Please access the [storyboard here.](https://preview.shorthand.com/ELCy4XNoBlsQ5GUp)
+<b>Please access the [storyboard here.](https://preview.shorthand.com/ELCy4XNoBlsQ5GUp)</b>
 
+### Structure:
+<b>Establish Emotional Stakes:</b>
+As in part 1, I am starting off with an emotional call, trying to make the broad concept of energy insecurity personal and felt. Note that I still need to do a “cleaned-up” version of the sketch of the woman experiencing energy insecurity. While I was initially going to do a watercolor version of the pencil sketch, a friend graciously offered to let me borrow his tablet, so that should make the final version even cleaner. 
+
+<b>The “who” of energy insecurity:</b>
+Then, I lead into the “who” of energy insecurity. Since energy insecurity is racialized – families of color experience it at higher rates – I’ve created a chart that highlights this. 
+
+<em>To do:</em> I will add text with additional context around the demographics of energy insecurity, as well. 
+
+<b>The “how” of energy insecurity:</b>
+Next, I flow into a page on how households cope in the face of energy insecurity. Nationwide, 24.61 households will either reduce or skip meals or medicine to pay for energy bills, while 12.2 million leave their homes at unhealthy temperatures. 
+
+<em>To do:</em> I will pull out quotes from source material to highlight the lived experiences of people experiencing energy insecurity. 
+
+<b>The “where” of energy insecurity:</b>
+This is where I start bringing in the theme of climate change. Here, I have the map 
+
+
+
+  
 <table>
   <tr>
     <th>Question</th>
