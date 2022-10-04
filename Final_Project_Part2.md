@@ -7,6 +7,7 @@ As in part 1, I am starting off with an emotional call, trying to make the broad
 <br>
 <em>To do:</em> I still need to do a “cleaned-up” version of the sketch of the woman experiencing energy insecurity. While I was initially going to do a watercolor version of the pencil sketch, a friend graciously offered to let me borrow his tablet, so that should make the final version even cleaner.
 <br>
+<br>
 <b>Who experiences energy insecurity: </b>
 <body>
     <hr>
@@ -14,6 +15,7 @@ As in part 1, I am starting off with an emotional call, trying to make the broad
 Then, I lead into the “who” of energy insecurity. Since energy insecurity is racialized – families of color experience it at higher rates – I’ve created a chart that highlights this. 
 <br>
 <em>To do:</em> I will add text with additional context around the demographics of energy insecurity. I will also explain how energy insecurity intersects with other vulnerabilities, such as low-income status, food insecurity, and transportation insecurity.  
+<br>
 <br>
 <b>The “how” of energy insecurity:</b>
 <body>
@@ -23,6 +25,7 @@ Next, I flow into a page on how households cope in the face of energy insecurity
 <br>
 <em>To do:</em> I will pull out quotes from source material to highlight the lived experiences of people experiencing energy insecurity. 
 <br>
+<br>
 <b>The “where” of energy insecurity:</b>
 <body>
     <hr>
@@ -30,6 +33,7 @@ Next, I flow into a page on how households cope in the face of energy insecurity
 This is where I start bringing in the theme of climate change. Here, I have the map showing that southern states tend to experience energy insecurity at the highest rates. Paired with the chart showing the rise in heat-related deaths, it becomes clear that climate change will impact those regions of the country already most vulnerable to energy insecurity. 
 <br>
 <em>To do:</em> Transform the map into regions instead of states. That the data were at the regional level but the map had state-level pop-outs was confusing to my classmates in the in-class critique, as well as to the three people who completed the survey. 
+<br>
 <br>
 <b>The “what next” of energy insecurity:</b>
 <body>
