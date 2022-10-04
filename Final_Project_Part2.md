@@ -54,6 +54,7 @@ This is my call-to-action section. I highlight three policies that can address e
 <em>To do:</em> Based on my user feedback (below), I think that I will need to explain why the quality of housing stock (and consequently, programs focused on weatherization) are important ways to address energy insecurity. As such, I am considering adding a section with additional charts on housing quality and housing stock type (single-family detached, apartment, etc.) to show that the condition of the housing stock impacts energy insecurity: families in lower-quality end up paying more for energy due to poorer insulation, less efficient heating/cooling facilities, etc. and are also more likely to be low-income, adding an edge of double vulnerability. 
 <br>
 <br>
+
 ### User Research: 
 The interviews provided valuable feedback. While I’ve summarized high-level findings here, reference the table below for full notes.
 <br>
