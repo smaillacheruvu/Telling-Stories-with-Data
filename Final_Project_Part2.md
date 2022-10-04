@@ -12,26 +12,37 @@ As in part 1, I am starting off with an emotional call, trying to make the broad
 <br>
 <br>
 
-##### Who experinences energy insecurity: 
+<b>Who experiences energy insecurity: </b>
+<body>
+    <hr>
+</body>
 Then, I lead into the “who” of energy insecurity. Since energy insecurity is racialized – families of color experience it at higher rates – I’ve created a chart that highlights this. 
 
 <em>To do:</em> I will add text with additional context around the demographics of energy insecurity. I will also explain how energy insecurity intersects with other vulnerabilities, such as low-income status, food insecurity, and transportation insecurity.  
 <br>
 <br>
 
-##### How do people cope with energy insecurity: 
 <b>The “how” of energy insecurity:</b>
+<body>
+    <hr>
+</body>
 Next, I flow into a page on how households cope in the face of energy insecurity. Nationwide, 24.61 households will either reduce or skip meals or medicine to pay for energy bills, while 12.2 million leave their homes at unhealthy temperatures. 
 
 <em>To do:</em> I will pull out quotes from source material to highlight the lived experiences of people experiencing energy insecurity. 
 <br>
 <br>
 <b>The “where” of energy insecurity:</b>
+<body>
+    <hr>
+</body>
 This is where I start bringing in the theme of climate change. Here, I have the map showing that southern states tend to experience energy insecurity at the highest rates. Paired with the chart showing the rise in heat-related deaths, it becomes clear that climate change will impact those regions of the country already most vulnerable to energy insecurity. 
 
 <em>To do:</em> Transform the map into regions instead of states. That the data were at the regional level but the map had state-level pop-outs was confusing to my classmates in the in-class critique, as well as to the three people who completed the survey. 
 
 <b>The “what next” of energy insecurity:</b>
+<body>
+    <hr>
+</body>
 This is my call-to-action section. I highlight three policies that can address energy insecurity: investing more in the LIHEAP program, investing more in the Weatherization Assistance Program, and advocating for higher national building inspection standards. 
 <em>To do:</em> Explain why the three programs mentioned above will address energy insecurity in the text under each. Especially make the case for the building standards (see below), or consider removing that call. 
 <br>
