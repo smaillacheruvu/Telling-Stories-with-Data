@@ -33,8 +33,6 @@
   </tr>
   <tr>
 </table>
-<b>HTML Sources:</b>
 
-<br>
-  [(McGeehin and Mirabelli, 2001)](https://ehp.niehs.nih.gov/doi/10.1289/ehp.109-1240665)
+[(McGeehin and Mirabelli, 2001)](https://ehp.niehs.nih.gov/doi/10.1289/ehp.109-1240665)
 <b>Finished?</b> Return to the [homepage of the repository.](README.md)
