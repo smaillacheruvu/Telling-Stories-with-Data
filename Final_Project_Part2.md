@@ -16,7 +16,7 @@ As in part 1, I am starting off with an emotional call, trying to make the broad
     <hr>
 </body>
 Then, I lead into the “who” of energy insecurity. Since energy insecurity is racialized – families of color experience it at higher rates – I’ve created a chart that highlights this. 
-<br>
+<br><br>
 <em>To do:</em> I will add text with additional context around the demographics of energy insecurity. I will also explain how energy insecurity intersects with other vulnerabilities, such as low-income status, food insecurity, and transportation insecurity.  
 <br>
 <br>
@@ -25,7 +25,7 @@ Then, I lead into the “who” of energy insecurity. Since energy insecurity is
     <hr>
 </body>
 Next, I flow into a page on how households cope in the face of energy insecurity. Nationwide, 24.61 households will either reduce or skip meals or medicine to pay for energy bills, while 12.2 million leave their homes at unhealthy temperatures. 
-<br>
+<br><br>
 <em>To do:</em> I will pull out quotes from source material to highlight the lived experiences of people experiencing energy insecurity. 
 <br>
 <br>
@@ -34,7 +34,7 @@ Next, I flow into a page on how households cope in the face of energy insecurity
     <hr>
 </body>
 This is where I start bringing in the theme of climate change. Here, I have the map showing that southern states tend to experience energy insecurity at the highest rates. Paired with the chart showing the rise in heat-related deaths, it becomes clear that climate change will impact those regions of the country already most vulnerable to energy insecurity. 
-<br>
+<br><br>
 <em>To do:</em> Transform the map into regions instead of states. That the data were at the regional level but the map had state-level pop-outs was confusing to my classmates in the in-class critique, as well as to the three people who completed the survey. 
 <br>
 <br>
@@ -44,11 +44,17 @@ This is where I start bringing in the theme of climate change. Here, I have the 
 </body>
 This is my call-to-action section. I highlight three policies that can address energy insecurity: investing more in the LIHEAP program, investing more in the Weatherization Assistance Program, and advocating for higher national building inspection standards. 
 <em>To do:</em> Explain why the three programs mentioned above will address energy insecurity in the text under each. Especially make the case for the building standards (see below), or consider removing that call. 
-<br>
+<br><br>
 <em>To do:</em> Based on my user feedback (below), I think that I will need to explain why the quality of housing stock (and consequently, programs focused on weatherization) are important ways to address energy insecurity. As such, I am considering adding a section with additional charts on housing quality and housing stock type (single-family detached, apartment, etc.) to show that the condition of the housing stock impacts energy insecurity: families in lower-quality end up paying more for energy due to poorer insulation, less efficient heating/cooling facilities, etc. and are also more likely to be low-income, adding an edge of double vulnerability. 
 
 ### User Research: 
 The interviews provided valuable feedback. While I’ve summarized high-level findings here, reference the table below for full notes.
+
+<b>Takeaways and themes: </b>
+-	<b>Establish a more unified color theme:</b> The palette at present doesn’t elevate the text and data narrative, so I need to settle upon a theme that will complement my story. 
+-	<b>Clarify the call-to-action section:</b> One individual noted that this section felt vague, so I will need to clearly explain the three policies. I also think I will need to signpost the actions more clearly via additional visualizations and/or text explanation describing why weatherization, for example, is an important way to address energy insecurity. 
+-	<b>Clean up the map:</b> People noted confusion around the color scheme of the map and how that scheme corresponded to the data and the different regions. 
+-	<b>Contextualize the tree map:</b> Users noted that the font on the tree map could be made larger and the descriptions for each box made shorter. In addition, users wanted additional data displayed on the charts, such as how many households use each coping mechanism, instead of it being featured in a popup. 
 
 I asked my interviewees the following questions via a Google form: 
 - If anything, what did you like about this wireframed story? Why did you like it?
@@ -57,10 +63,6 @@ I asked my interviewees the following questions via a Google form:
 - Is there anything you learned from this project? If so, what is it?
 - Do you have any suggestions on what might make this better?
 
-<br>
-<br>
-<br>
-<br>
   
 <table>
   <tr>
@@ -94,8 +96,7 @@ I asked my interviewees the following questions via a Google form:
     <td>Work with colors to communicate message more effectively.</td>
   </tr>
 </table>
-
-HTML Sources:
+#### HTML Sources:
 [WSL Table](https://www.w3schools.com/html/html_tables.asp)
 <br>
 <br>
