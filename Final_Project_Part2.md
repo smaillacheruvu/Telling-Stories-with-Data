@@ -3,9 +3,9 @@
 <table>
   <tr>
     <th>Question</th>
-    <th>Person 1</th>
-    <th>Person 2</th>
-    <th>Person 3</th>
+    <th>Male, student, mid-twenties</th>
+    <th>Male, podcast producer, late-twenties</th>
+    <th>Female, student, mid-twenties</th>
   </tr>
   <tr>
     <th>What did you like?</th>
