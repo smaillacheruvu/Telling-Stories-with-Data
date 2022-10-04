@@ -3,7 +3,9 @@
 
 ### Structure:
 <b>Establish Emotional Stakes:</b>
-As in part 1, I am starting off with an emotional call, trying to make the broad concept of energy insecurity personal and felt. Note that I still need to do a “cleaned-up” version of the sketch of the woman experiencing energy insecurity. While I was initially going to do a watercolor version of the pencil sketch, a friend graciously offered to let me borrow his tablet, so that should make the final version even cleaner. 
+As in part 1, I am starting off with an emotional call, trying to make the broad concept of energy insecurity personal and felt. 
+
+<em>To do:</em>I still need to do a “cleaned-up” version of the sketch of the woman experiencing energy insecurity. While I was initially going to do a watercolor version of the pencil sketch, a friend graciously offered to let me borrow his tablet, so that should make the final version even cleaner. 
 
 <b>The “who” of energy insecurity:</b>
 Then, I lead into the “who” of energy insecurity. Since energy insecurity is racialized – families of color experience it at higher rates – I’ve created a chart that highlights this. 
