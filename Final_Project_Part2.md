@@ -9,15 +9,27 @@
   </tr>
   <tr>
     <td>What did you like?</td>
-    <td>What didn't you like?s</td>
-    <td>What was confusing? Did you want more info on anything?</td>
-    <td>Any suggestions?</td>
+    <td>A</td>
+    <td>B</td>
+    <td>C</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-    <td>More</td>
+    <td>What didn't you like?</td>
+    <td>A</td>
+    <td>B</td>
+    <td>C</td>
+  </tr>
+   <tr>
+    <td>What was confusing? Did you want more info on anything?a</td>
+    <td>A</td>
+    <td>B</td>
+    <td>C</td>
+  </tr>
+   <tr>
+    <td>Any suggestions?</td>
+    <td>A</td>
+    <td>B</td>
+    <td>C</td>
   </tr>
 </table>
   
