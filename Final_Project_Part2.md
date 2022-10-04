@@ -81,6 +81,7 @@ The interviews provided valuable feedback. While I’ve summarized high-level fi
     <th>Male, podcast producer, late-twenties</th>
     <th>Female, student, mid-twenties</th>
     <th>Female, student, late-twenties</th>
+    <th>Female, student, late-twenties</th>
   </tr>
   <tr>
     <th>What did you like?</th>
@@ -88,6 +89,7 @@ The interviews provided valuable feedback. While I’ve summarized high-level fi
     <td>Liked that the initial framing was simply and relatable. Variety of charts ws engaging. Liked the section headers and use of bold font. </td>
     <td>The headings were helpful guides.</td>
     <td>Simple overview that's accessible even if you don't know what energy insecurity is.</td>
+    <td>Really enjoyed the intro: the drawing and question made the story relatable before the definition of energy insecurity was introduced.</td>
   </tr>
   <tr>
     <th>What didn't you like?</th>
@@ -95,13 +97,15 @@ The interviews provided valuable feedback. While I’ve summarized high-level fi
     <td>The "What can we do?" section felt vague. Give more info on why the programs identified would address energy insecurity, perahps with a worked example.</td>
     <td>The color palette wasn't cohesive.</td>
     <td>More detailed info would be good.</td>
-  </tr>
+    <td>Try different color text for pages with blue background to make it more legible.</td>
+</tr>
    <tr>
     <th>What was confusing? Did you want more info on anything?</th>
     <td>The tree map wasn't easily interpretable on first glance</td>
     <td>Didn't understand how building inspections could address the problem.</td>
     <td>The Tableau map wasn't clear — what did the colors represent?</td>
     <td>The heat map needs a legend to make the different levels clearer.</td>
+    <td>The color scheme was confusing: red typically means hot, while blue is cold</td>
   </tr>
    <tr>
     <th>Any suggestions?</th>
@@ -109,6 +113,7 @@ The interviews provided valuable feedback. While I’ve summarized high-level fi
     <td>More detail in the "What can we do?" section. Contextaulize the calls to action.</td>
     <td>Work with colors to communicate message more effectively.</td>
     <td>Add a title to the demographics section to be consistent with the others.</td>
+    <td>Consider using orange instead of red for graphs..</td>
   </tr>
 </table>
 #### HTML Sources:
