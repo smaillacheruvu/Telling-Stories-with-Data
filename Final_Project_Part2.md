@@ -30,7 +30,6 @@
     <td>A</td>
     <td>B</td>
     <td>C</td>
-  </tr>
 </table>
   
 <br>
