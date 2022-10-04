@@ -60,7 +60,7 @@ The interviews provided valuable feedback. While I’ve summarized high-level fi
 -	<b>Clean up the map:</b> People noted confusion around the color scheme of the map and how that scheme corresponded to the data and the different regions. 
 -	<b>Contextualize the tree map:</b> Users noted that the font on the tree map could be made larger and the descriptions for each box made shorter. In addition, users wanted additional data displayed on the charts, such as how many households use each coping mechanism, instead of it being featured in a popup. 
 
-##### I asked my interviewees the following questions via a Google form: 
+#### I asked my interviewees the following questions via a Google form: 
 - If anything, what did you like about this wireframed story? Why did you like it?
 - What did you not like? Why? 
 - What was confusing? Is there anything that you wish were explained more or had more details?
