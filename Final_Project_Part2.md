@@ -24,8 +24,10 @@ Next, I flow into a page on how households cope in the face of energy insecurity
 <b>The “where” of energy insecurity:</b>
 This is where I start bringing in the theme of climate change. Here, I have the map 
 
-
-
+<br>
+<br>
+<br>
+<br>
   
 <table>
   <tr>
@@ -61,7 +63,7 @@ This is where I start bringing in the theme of climate change. Here, I have the 
 </table>
 
 HTML Sources:
-[WSL Table](https://www.w3schools.com/html/html_tables.asp)
+- [WSL Table](https://www.w3schools.com/html/html_tables.asp)
 <br>
 <br>
 <b>Finished?</b> Return to the [homepage of the repository.](README.md)
