@@ -35,7 +35,13 @@
 </table>
   
 <br>
-<b>HTML Sources:</b><br>
-[WSL, How to Make a Table](https://www.w3schools.com/html/html_tables.asp)
+<b>HTML Sources:</b>
+<br>
+  <ul>
+  <li>[WSL, How to Make a Table](https://www.w3schools.com/html/html_tables.asp)</li>
+  <li>Map demonstrating where energy insecurity rates are highest across the country</li>
+  <li>Chart showing how households cope in the face of energy insecurity</li>
+  <li>Chart showcasing the increase in heat-related deaths</li>
+</ul>
 <br>
 <b>Finished?</b> Return to the [homepage of the repository.](README.md)
