@@ -8,9 +8,10 @@
     <th>Person 3<th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>What did you like?</td>
+    <td>What didn't you like?s</td>
+    <td>What was confusing? Did you want more info on anything?</td>
+    <td>Any suggestions?</td>
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
