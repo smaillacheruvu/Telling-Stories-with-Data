@@ -2,12 +2,6 @@
 
 <table>
   <tr>
-    <th>Question</th>
-    <th>Person 1</th>
-    <th>Person 2</th>
-    <th>Person 3<th>
-  </tr>
-  <tr>
     <td>What did you like?</td>
     <td>A</td>
     <td>B</td>
