@@ -16,7 +16,8 @@ Then, I lead into the “who” of energy insecurity. Since energy insecurity is
 Next, I flow into a page on how households cope in the face of energy insecurity. Nationwide, 24.61 households will either reduce or skip meals or medicine to pay for energy bills, while 12.2 million leave their homes at unhealthy temperatures. 
 
 <em>To do:</em> I will pull out quotes from source material to highlight the lived experiences of people experiencing energy insecurity. 
-
+<br>
+<br>
 <b>The “where” of energy insecurity:</b>
 This is where I start bringing in the theme of climate change. Here, I have the map 
 
