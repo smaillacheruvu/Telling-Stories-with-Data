@@ -32,7 +32,8 @@
     <td>C</td>
   </tr>
 </table>
-  <b>HTML Soruces:</b>
+
+HTML Sources:
 [WSL Table](https://www.w3schools.com/html/html_tables.asp)
 <br>
 <br>
