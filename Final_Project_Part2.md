@@ -33,8 +33,6 @@
   </tr>
   <tr>
 </table>
-  
-<br>
 <b>HTML Sources:</b>
 <br>
   <ul>
