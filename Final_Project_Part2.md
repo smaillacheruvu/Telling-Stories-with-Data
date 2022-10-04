@@ -2,6 +2,9 @@
 <b>Please access the [storyboard here.](https://preview.shorthand.com/ELCy4XNoBlsQ5GUp)</b>
 
 #### Project Structure:
+<body>
+    <h2>Horizontal line</h2>
+</body>
 <b>Establish Emotional Stakes:</b>
 As in part 1, I am starting off with an emotional call, trying to make the broad concept of energy insecurity personal and felt. 
 
