@@ -11,7 +11,7 @@ As in part 1, I am starting off with an emotional call, trying to make the broad
 <b>The “who” of energy insecurity:</b>
 Then, I lead into the “who” of energy insecurity. Since energy insecurity is racialized – families of color experience it at higher rates – I’ve created a chart that highlights this. 
 
-<em>To do:</em> I will add text with additional context around the demographics of energy insecurity, as well. 
+<em>To do:</em> I will add text with additional context around the demographics of energy insecurity. I will also explain how energy insecurity intersects with other vulnerabilities, such as low-income status, food insecurity, and transportation insecurity.  
 <br>
 <br>
 
