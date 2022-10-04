@@ -31,10 +31,9 @@
     <td>B</td>
     <td>C</td>
   </tr>
-  <tr>
 </table>
 
-[WSL Table](https://ehp.niehs.nih.gov/doi/10.1289/ehp.109-1240665)
+[WSL Table](https://www.w3schools.com/html/html_tables.asp)
 <br>
 <br>
 <b>Finished?</b> Return to the [homepage of the repository.](README.md)
