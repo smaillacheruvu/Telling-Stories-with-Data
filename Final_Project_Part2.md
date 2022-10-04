@@ -1,7 +1,10 @@
 # Part 2: Wireframes in Shorthand and draft charts 
-<b>Please access the [storyboard here.](https://preview.shorthand.com/ELCy4XNoBlsQ5GUp)</b> I made this wireframe outline in Shorthand. This was a great way to gain
+<b>Please access the [storyboard here.](https://preview.shorthand.com/ELCy4XNoBlsQ5GUp)</b> I made this wireframe outline in Shorthand. This was a great way to gain exposure to the tool. There were some aspects of the platform that I found nonintuitive, so I am glad I worked through some of these kinks before laying everything out in the final draft. I also wasn’t entirely pleased with the way that my draft map from Tableau uploaded – paired with user feedback that the map was confusing, I am going to use another medium to make that chart. 
 
 ### Project Structure:
+<body>
+    <hr>
+</body>
 <b>Establish Emotional Stakes:</b>
 As in part 1, I am starting off with an emotional call, trying to make the broad concept of energy insecurity personal and felt. 
 <br>
@@ -44,7 +47,7 @@ This is my call-to-action section. I highlight three policies that can address e
 <br>
 <em>To do:</em> Based on my user feedback (below), I think that I will need to explain why the quality of housing stock (and consequently, programs focused on weatherization) are important ways to address energy insecurity. As such, I am considering adding a section with additional charts on housing quality and housing stock type (single-family detached, apartment, etc.) to show that the condition of the housing stock impacts energy insecurity: families in lower-quality end up paying more for energy due to poorer insulation, less efficient heating/cooling facilities, etc. and are also more likely to be low-income, adding an edge of double vulnerability. 
 
-#### User Research: 
+### User Research: 
 The interviews provided valuable feedback. While I’ve summarized high-level findings here, reference the table below for full notes.
 
 I asked my interviewees the following questions via a Google form: 
