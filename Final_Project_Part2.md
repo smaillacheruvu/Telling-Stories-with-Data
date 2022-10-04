@@ -35,6 +35,6 @@
   
 <br>
 <b>HTML Sources:</b><br>
--[WSL, How to Make a Table](https://www.w3schools.com/html/html_tables.asp)
+[WSL, How to Make a Table](https://www.w3schools.com/html/html_tables.asp)
 <br>
 Finished? Return to the [homepage of the repository.](README.md)
