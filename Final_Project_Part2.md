@@ -22,7 +22,16 @@ Next, I flow into a page on how households cope in the face of energy insecurity
 <br>
 <br>
 <b>The “where” of energy insecurity:</b>
-This is where I start bringing in the theme of climate change. Here, I have the map 
+This is where I start bringing in the theme of climate change. Here, I have the map showing that southern states tend to experience energy insecurity at the highest rates. Paired with the chart showing the rise in heat-related deaths, it becomes clear that climate change will impact those regions of the country already most vulnerable to energy insecurity. 
+
+<em>To do:</em> Transform the map into regions instead of states. That the data were at the regional level but the map had state-level pop-outs was confusing to my classmates in the in-class critique, as well as to the three people who completed the survey. 
+
+<b>The “what next” of energy insecurity:</b>
+This is my call-to-action section. I highlight three policies that can address energy insecurity: investing more in the LIHEAP program, investing more in the Weatherization Assistance Program, and advocating for higher national building inspection standards. 
+<em>To do:</em> Explain why the three programs mentioned above will address energy insecurity in the text under each. Especially make the case for the building standards (see below), or consider removing that call. 
+<br>
+<em>To do:</em> Based on my user feedback (below), I think that I will need to explain why the quality of housing stock (and consequently, programs focused on weatherization) are important ways to address energy insecurity. As such, I am considering adding a section with additional charts on housing quality and housing stock type (single-family detached, apartment, etc.) to show that the condition of the housing stock impacts energy insecurity: families in lower-quality end up paying more for energy due to poorer insulation, less efficient heating/cooling facilities, etc. and are also more likely to be low-income, adding an edge of double vulnerability. 
+
 
 <br>
 <br>
