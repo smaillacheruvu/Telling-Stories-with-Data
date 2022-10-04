@@ -2,25 +2,21 @@
 <b>Please access the [storyboard here.](https://preview.shorthand.com/ELCy4XNoBlsQ5GUp)</b>
 
 #### Project Structure:
-<body>
-    <h2>Horizontal line</h2>
-</body>
-<b>Establish Emotional Stakes:</b>
+##### <b>Establish Emotional Stakes:</b>
 As in part 1, I am starting off with an emotional call, trying to make the broad concept of energy insecurity personal and felt. 
 
 <em>To do:</em> I still need to do a “cleaned-up” version of the sketch of the woman experiencing energy insecurity. While I was initially going to do a watercolor version of the pencil sketch, a friend graciously offered to let me borrow his tablet, so that should make the final version even cleaner. 
 <br>
 <br>
-<body>
-    <h2>Horizontal line</h2>
-</body>
-<b>The “who” of energy insecurity:</b>
+
+##### Who experinences energy insecurity: 
 Then, I lead into the “who” of energy insecurity. Since energy insecurity is racialized – families of color experience it at higher rates – I’ve created a chart that highlights this. 
 
 <em>To do:</em> I will add text with additional context around the demographics of energy insecurity. I will also explain how energy insecurity intersects with other vulnerabilities, such as low-income status, food insecurity, and transportation insecurity.  
 <br>
 <br>
 
+##### How do people cope with energy insecurity: 
 <b>The “how” of energy insecurity:</b>
 Next, I flow into a page on how households cope in the face of energy insecurity. Nationwide, 24.61 households will either reduce or skip meals or medicine to pay for energy bills, while 12.2 million leave their homes at unhealthy temperatures. 
 
