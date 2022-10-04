@@ -1,7 +1,7 @@
 # Part 2: Wireframes in Shorthand and draft charts 
 <b>Please access the [storyboard here.](https://preview.shorthand.com/ELCy4XNoBlsQ5GUp)</b>
 
-### Structure:
+#### Project Structure:
 <b>Establish Emotional Stakes:</b>
 As in part 1, I am starting off with an emotional call, trying to make the broad concept of energy insecurity personal and felt. 
 
@@ -32,6 +32,15 @@ This is my call-to-action section. I highlight three policies that can address e
 <br>
 <em>To do:</em> Based on my user feedback (below), I think that I will need to explain why the quality of housing stock (and consequently, programs focused on weatherization) are important ways to address energy insecurity. As such, I am considering adding a section with additional charts on housing quality and housing stock type (single-family detached, apartment, etc.) to show that the condition of the housing stock impacts energy insecurity: families in lower-quality end up paying more for energy due to poorer insulation, less efficient heating/cooling facilities, etc. and are also more likely to be low-income, adding an edge of double vulnerability. 
 
+#### User Research: 
+The interviews provided valuable feedback. While I’ve summarized high-level findings here, reference the table below for full notes.
+
+I asked my interviewees the following questions via a Google form: 
+- If anything, what did you like about this wireframed story? Why did you like it?
+- What did you not like? Why? 
+- What was confusing? Is there anything that you wish were explained more or had more details?
+- Is there anything you learned from this project? If so, what is it?
+- Do you have any suggestions on what might make this better?
 
 <br>
 <br>
