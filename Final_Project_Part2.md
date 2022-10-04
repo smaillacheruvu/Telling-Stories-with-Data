@@ -1,8 +1,8 @@
 # Part 2: Wireframes in Shorthand and draft charts 
 <b>Please access the [storyboard here.](https://preview.shorthand.com/ELCy4XNoBlsQ5GUp)</b>
 
-#### Project Structure:
-##### <b>Establish Emotional Stakes:</b>
+### Project Structure:
+<b>Establish Emotional Stakes:</b>
 <body>
     <hr>
 </body>
