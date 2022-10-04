@@ -35,4 +35,5 @@
 </table>
 
 [(McGeehin and Mirabelli, 2001)](https://ehp.niehs.nih.gov/doi/10.1289/ehp.109-1240665)
+<br>
 <b>Finished?</b> Return to the [homepage of the repository.](README.md)
