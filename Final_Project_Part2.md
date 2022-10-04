@@ -9,26 +9,26 @@
   </tr>
   <tr>
     <td>What did you like?</td>
-    <td>A</td>
-    <td>B</td>
+    <td>Digestible amount of information; wasn't overwhelmed.</td>
+    <td>Liked that the initial framing was simply and relatable. Variety of charts ws engaging. Liked the section headers and use of bold font. </td>
     <td>C</td>
   </tr>
   <tr>
     <td>What didn't you like?</td>
-    <td>A</td>
-    <td>B</td>
+    <td>Color scheme is not consistent</td>
+    <td>The "What can we do?" section felt vague. Give more info on why the programs identified would address energy insecurity, perahps with a worked example.</td>
     <td>C</td>
   </tr>
    <tr>
     <td>What was confusing? Did you want more info on anything?a</td>
-    <td>A</td>
-    <td>B</td>
+    <td>The tree map wasn't easily interpretable on first glance</td>
+    <td>Didn't understand how building inspections could address the problem.</td>
     <td>C</td>
   </tr>
    <tr>
     <td>Any suggestions?</td>
-    <td>A</td>
-    <td>B</td>
+    <td>Create unified color scheme. Add labels to tree map.</td>
+    <td>More detail in the "What can we do?" section. Contextaulize the calls to action.</td>
     <td>C</td>
   </tr>
 </table>
