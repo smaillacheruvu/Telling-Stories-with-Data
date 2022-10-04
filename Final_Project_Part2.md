@@ -63,7 +63,7 @@ This is where I start bringing in the theme of climate change. Here, I have the 
 </table>
 
 HTML Sources:
-- [WSL Table](https://www.w3schools.com/html/html_tables.asp)
+[WSL Table](https://www.w3schools.com/html/html_tables.asp)
 <br>
 <br>
 <b>Finished?</b> Return to the [homepage of the repository.](README.md)
