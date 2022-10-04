@@ -20,7 +20,7 @@
     <td>C</td>
   </tr>
    <tr>
-    <th>What was confusing? Did you want more info on anything?a</th>
+    <th>What was confusing? Did you want more info on anything?</th>
     <td>The tree map wasn't easily interpretable on first glance</td>
     <td>Didn't understand how building inspections could address the problem.</td>
     <td>C</td>
