@@ -1,5 +1,8 @@
 # Part 2: Wireframes in Shorthand and draft charts 
-<b>Please access the [storyboard here.](https://preview.shorthand.com/ELCy4XNoBlsQ5GUp)</b> I made this wireframe outline in Shorthand. This was a great way to gain exposure to the tool. There were some aspects of the platform that I found nonintuitive, so I am glad I worked through some of these kinks before laying everything out in the final draft. I also wasn’t entirely pleased with the way that my draft map from Tableau uploaded – paired with user feedback that the map was confusing, I am going to use another medium to make that chart. 
+<b>Please access the [storyboard here.](https://preview.shorthand.com/ELCy4XNoBlsQ5GUp)</b> I made this wireframe outline in Shorthand. This was a great way to gain exposure to the tool. There were some aspects of the platform that I found nonintuitive, so I am glad I worked through some of these kinks before laying everything out in the final draft. 
+
+As I was testing out different visualizations in Shorthand, I realized that, in general, I prefer how Flourish charts displayed over Tableau charts. So, I have decided to pivot to Flourish for the final chart, relying on Tableau only if I need to. Charts from Flourish tended to look cleaner upon upload, with fewer issues around text or axes being modified. As an example, I am entirely pleased with the way that my draft map from Tableau uploaded: the annotation is cut off, and the download options on the bottom clutter the page. Paired with user feedback that the map was confusing, I have decided to use another, simpler medium to make that chart.
+
 
 ### Project Structure:
 <body>
