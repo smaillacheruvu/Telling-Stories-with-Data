@@ -10,6 +10,8 @@ Then, I lead into the “who” of energy insecurity. Since energy insecurity is
 
 <em>To do:</em> I will add text with additional context around the demographics of energy insecurity, as well. 
 <br>
+<br>
+
 <b>The “how” of energy insecurity:</b>
 Next, I flow into a page on how households cope in the face of energy insecurity. Nationwide, 24.61 households will either reduce or skip meals or medicine to pay for energy bills, while 12.2 million leave their homes at unhealthy temperatures. 
 
