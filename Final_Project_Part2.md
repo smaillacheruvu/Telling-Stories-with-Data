@@ -119,7 +119,6 @@ The interviews provided valuable feedback. While I’ve summarized high-level fi
   </tr>
 </table>
 <br>
-<br>
 #### HTML Sources:
 [WSL - Make a Table in HTML](https://www.w3schools.com/html/html_tables.asp)
 <br>
