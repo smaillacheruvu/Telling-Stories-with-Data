@@ -119,5 +119,6 @@ The interviews provided valuable feedback. While I’ve summarized high-level fi
 </table>
 <br>
 #### HTML Sources:
-[WSL - Make a Table in HTML](https://www.w3schools.com/html/html_tables.asp)<br>
+[WSL - Make a Table in HTML](https://www.w3schools.com/html/html_tables.asp)
+<br>
 <b>Finished?</b> Return to the [homepage of the repository.](README.md)
