@@ -69,6 +69,7 @@ The interviews provided valuable feedback. While I’ve summarized high-level fi
 -	Is there anything you learned from this project? If so, what is it?
 -	 Do you have any suggestions on what might make this better?
 <br>
+<br>
 <b>Takeaways and themes: </b>
 -	<b>Establish a more unified color theme:</b> The palette at present doesn’t elevate the text and data narrative, so I need to settle upon a theme that will complement my story. 
 -	<b>Clarify the call-to-action section:</b> One individual noted that this section felt vague, so I will need to clearly explain the three policies. I also think I will need to signpost the actions more clearly via additional visualizations and/or text explanation describing why weatherization, for example, is an important way to address energy insecurity. 
