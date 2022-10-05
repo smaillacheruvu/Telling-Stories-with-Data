@@ -8,6 +8,7 @@ As I was testing out different visualizations in Shorthand, <b>I realized that, 
 
 ### Mood board: 
 Below, I put together a simple mood board, including color samples and graphics, that I'd like to incorporate into my presentation. I need to do some standardization in the charts to this board. In addition, moving into the final draft, I am considering shuffling around the colors for something more coherent, as that was a common theme from my interviews. 
+<br>
 <img src="Energy Insecurity (3).png" class="center"><br>
 <br>
 ### Project Structure:
