@@ -6,7 +6,6 @@ I made this wireframe outline in Shorthand. This was a great way to gain exposur
 
 As I was testing out different visualizations in Shorthand, <b>I realized that, in general, I prefer how Flourish charts display over Tableau charts</b>: charts from Flourish tended to look cleaner upon upload, with fewer issues around text or axes being modified. So, I have decided to pivot solely to Flourish for the final draft.  As an example, in the wireframe, I am not entirely pleased with the map from Tableau: the annotation is cut off, and the download options on the bottom clutter the page. Paired with user feedback that this map was confusing, I have decided to use another, simpler medium to make that chart.
 
-
 ### Project Structure:
 <body>
     <hr>
