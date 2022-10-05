@@ -62,17 +62,19 @@ This is my call-to-action section. I highlight three policies that can address e
 ### User Research: 
 The interviews provided valuable feedback. While I’ve summarized high-level findings here, reference the table below for full notes.<br>
 <br>
-<b>Takeaways and themes: </b>
--	<b>Establish a more unified color theme:</b> The palette at present doesn’t elevate the text and data narrative, so I need to settle upon a theme that will complement my story. 
--	<b>Clarify the call-to-action section:</b> One individual noted that this section felt vague, so I will need to clearly explain the three policies. I also think I will need to signpost the actions more clearly via additional visualizations and/or text explanation describing why weatherization, for example, is an important way to address energy insecurity. 
--	<b>Clean up the map:</b> People noted confusion around the color scheme of the map and how that scheme corresponded to the data and the different regions. 
--	<b>Contextualize the tree map:</b> Users noted that the font on the tree map could be made larger and the descriptions for each box made shorter. In addition, users wanted additional data displayed on the charts, such as how many households use each coping mechanism, instead of it being featured in a popup.<br> 
 #### I asked my interviewees the following questions via a Google form:
 -	 If anything, what did you like about this wireframed story? Why did you like it?
 -	 What did you not like? Why? 
 -	What was confusing? Is there anything that you wish were explained more or had more details?
 -	Is there anything you learned from this project? If so, what is it?
 -	 Do you have any suggestions on what might make this better?
+<br>
+<b>Takeaways and themes: </b>
+-	<b>Establish a more unified color theme:</b> The palette at present doesn’t elevate the text and data narrative, so I need to settle upon a theme that will complement my story. 
+-	<b>Clarify the call-to-action section:</b> One individual noted that this section felt vague, so I will need to clearly explain the three policies. I also think I will need to signpost the actions more clearly via additional visualizations and/or text explanation describing why weatherization, for example, is an important way to address energy insecurity. 
+-	<b>Clean up the map:</b> People noted confusion around the color scheme of the map and how that scheme corresponded to the data and the different regions. 
+-	<b>Contextualize the tree map:</b> Users noted that the font on the tree map could be made larger and the descriptions for each box made shorter. In addition, users wanted additional data displayed on the charts, such as how many households use each coping mechanism, instead of it being featured in a popup.<br> 
+
 <br>
 <br>
 <table>
