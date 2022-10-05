@@ -75,9 +75,7 @@ The interviews provided valuable feedback. While I’ve summarized high-level fi
 -	<b>Clarify the call-to-action section:</b> One individual noted that this section felt vague, so I will need to clearly explain the three policies. I also think I will need to signpost the actions more clearly via additional visualizations and/or text explanation describing why weatherization, for example, is an important way to address energy insecurity. 
 -	<b>Clean up the map:</b> People noted confusion around the color scheme of the map and how that scheme corresponded to the data and the different regions. 
 -	<b>Contextualize the tree map:</b> Users noted that the font on the tree map could be made larger and the descriptions for each box made shorter. In addition, users wanted additional data displayed on the charts, such as how many households use each coping mechanism, instead of it being featured in a popup.<br> 
-
-<br>
-<br>
+<br><br>
 <table>
   <tr>
     <th>Question</th>
