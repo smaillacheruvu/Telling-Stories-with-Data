@@ -60,7 +60,7 @@ This is my call-to-action section. I highlight three policies that can address e
 <br>
 
 ### User Research: 
-The interviews provided valuable feedback. While I’ve summarized high-level findings here, reference the table below for full notes.
+The interviews provided valuable feedback. While I’ve summarized high-level findings here, reference the table below for full notes.<br>
 <br>
 <b>Takeaways and themes: </b>
 -	<b>Establish a more unified color theme:</b> The palette at present doesn’t elevate the text and data narrative, so I need to settle upon a theme that will complement my story. 
