@@ -69,11 +69,11 @@ The interviews provided valuable feedback. While I’ve summarized high-level fi
 -	<b>Contextualize the tree map:</b> Users noted that the font on the tree map could be made larger and the descriptions for each box made shorter. In addition, users wanted additional data displayed on the charts, such as how many households use each coping mechanism, instead of it being featured in a popup.<br> 
 <br>
 <b>I asked my interviewees the following questions via a Google form: </b> 
-- If anything, what did you like about this wireframed story? Why did you like it?
-- What did you not like? Why? 
-- What was confusing? Is there anything that you wish were explained more or had more details?
-- Is there anything you learned from this project? If so, what is it?
-- Do you have any suggestions on what might make this better?
+-	 If anything, what did you like about this wireframed story? Why did you like it?
+-	 What did you not like? Why? 
+-	What was confusing? Is there anything that you wish were explained more or had more details?
+-	Is there anything you learned from this project? If so, what is it?
+-	 Do you have any suggestions on what might make this better?
 <br>
 <br>
 <table>
