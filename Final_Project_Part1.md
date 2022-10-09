@@ -59,5 +59,6 @@ During the critique on Tuesday, my group shared valuable feedback. <b>One member
 Another member  mentioned that adding a time component to the visualization would show energy insecurity  has changed over time. This is a great point, and one I want to consider further in putting together the final project. However, at present I am currently constrained by the data that I have, as it only tracks energy insecurity from 2015 to 2020, limiting my ability to make temporal comparisons. So, this is a lower feasibility modification in the short term, but a valuable one for future drafts. 
 
 <b>Want to see more?</b> Check out [Part 2](Final_Project_Part2.md) and [Part 3](Final_Project_Part3.md) of the project! 
+<br>
 <b>Finished?</b> Return to the [homepage of the repository.](README.md)
 
