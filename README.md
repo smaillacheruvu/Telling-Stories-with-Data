@@ -15,7 +15,7 @@ I am excited to gain an understanding of the theory behind data visualization, a
 ##### Project 2: 
 [Intelligent Transportation Systems Chart Redesign](ITS_Chart_Redesign.md)
 
-##### Final Project 
+##### Final Project: 
 [Part 1](Final_Project_Part1.md)<br>
 [Part 2](Final_Project_Part2.md)<br>
 [Part 3](Final_Project_Part3.md)
