@@ -17,5 +17,5 @@ I am excited to gain an understanding of the theory behind data visualization, a
 
 ##### Final Project 
 [Part 1](Final_Project_Part1.md)<br>
-[Part 2](Final_Project_Part2.md)
+[Part 2](Final_Project_Part2.md)<br>
 [Part 3](Final_Project_Part3.md)
