@@ -26,7 +26,5 @@ After reviewing my interviews and reflecting on the project, I identified the au
 •	<b>I redid the intro sketch more than a few times.</b> This is a really important piece of my project: it personalizes energy insecurity, inviting the reader to pique their interest. But to get it right, I had to go through multiple iterations. At first, I borrowed a friend’s tablet and did a virtual version. This, however, didn’t look quite right: I didn’t get the nuance in shading that I wanted, and the formatting in Shorthand was off. I then transitioned to a watercolor version, which surprisingly took me less time and ended up looking cleaner, all things considered. I then uploaded the watercolor version into an image editor to do a series of finishing touches. While the perfectionist in me isn’t fully pleased with the final version, I realize that perfect is the enemy of good: I’m happy with how this element turned out.
 
 
-
-<b>Want to see more?</b> Check out [Part 1](Final_Project_Part1.md) and [Part 3](Final_Project_Part3.md) of the project!<br>
 <br>
 <b>Finished?</b> Return to the [homepage of the repository.](README.md)
