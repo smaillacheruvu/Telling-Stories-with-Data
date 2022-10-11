@@ -1,5 +1,8 @@
 # Part 2: Wireframes in Shorthand and draft charts 
-<b>You can access the [storyboard here.](https://preview.shorthand.com/ELCy4XNoBlsQ5GUp)</b> 
+
+#### You can access the [storyboard here.](https://preview.shorthand.com/ELCy4XNoBlsQ5GUp)</b> 
+#### Want to see more? Check out [Part 1](Final_Project_Part1.md) and [Part 3](Final_Project_Part3.md) of the project! 
+
 
 ### Overview: 
 I made this wireframe outline in Shorthand. This was a great way to gain exposure to the tool. There were some aspects of the platform that I found nonintuitive, so I am glad I worked through some of these kinks before laying everything out in the final draft. 
@@ -120,6 +123,5 @@ The interviews provided valuable feedback. While I’ve summarized high-level fi
 #### HTML Sources:
 [WSL - Make a Table in HTML](https://www.w3schools.com/html/html_tables.asp)<br>
 <br>
-<b>Want to see more?</b> Check out [Part 1](Final_Project_Part1.md) and [Part 3](Final_Project_Part3.md) of the project! 
 <br>
 <b>Finished?</b> Return to the [homepage of the repository.](README.md)
