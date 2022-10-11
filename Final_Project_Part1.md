@@ -1,4 +1,7 @@
 ## Final Project: Part 1
+
+#### Want to see more?</b> Check out [Part 2](Final_Project_Part2.md) and [Part 3](Final_Project_Part3.md) of the project! 
+
 ### Project Summary: 
 In 2020, over 1 in 4 U.S. households experienced energy insecurity, a condition defined as “the inability to meet basic household energy needs” [(Hern&aacute;ndez, 2016)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5114037/). Energy insecurity negatively impacts families’ health, and unsafe indoor temperatures are especially dangerous for elderly people and children [(McGeehin and Mirabelli, 2001)](https://ehp.niehs.nih.gov/doi/10.1289/ehp.109-1240665). There are also racial and ethnic dimensions to energy insecurity: studies have shown that Black and Hispanic households experience energy insecurity at higher rates [(Memmott, et al, 2021)](https://www.nature.com/articles/s41560-020-00763-9). In the face of climate change and increasing severe weather events, we need a strong energy policy system to protect vulnerable families from the negative health and social impacts associated with energy insecurity. 
 <br>
@@ -58,7 +61,6 @@ During the critique on Tuesday, my group shared valuable feedback. <b>One member
 
 Another member  mentioned that adding a time component to the visualization would show energy insecurity  has changed over time. This is a great point, and one I want to consider further in putting together the final project. However, at present I am currently constrained by the data that I have, as it only tracks energy insecurity from 2015 to 2020, limiting my ability to make temporal comparisons. So, this is a lower feasibility modification in the short term, but a valuable one for future drafts. 
 
-<b>Want to see more?</b> Check out [Part 2](Final_Project_Part2.md) and [Part 3](Final_Project_Part3.md) of the project! 
 <br>
 <b>Finished?</b> Return to the [homepage of the repository.](README.md)
 
