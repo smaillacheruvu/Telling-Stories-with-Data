@@ -1,7 +1,7 @@
 # Part 3: Final Project 
 
 #### [Check out the final data story here.]()
-#### Want to see more?</b> Check out [Part 1](Final_Project_Part1.md) and [Part 2](Final_Project_Part2.md) of the project!<br>
+#### Want to see more? Check out [Part 1](Final_Project_Part1.md) and [Part 2](Final_Project_Part2.md) of the project!<br>
 
 
 ## Process
