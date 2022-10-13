@@ -1,3 +1,4 @@
+# Introduction  
 
 ## About me:  
 My name is Sara Maillacheruvu (she/her/hers), and I am a second year Master of Public Policy and Management - Data Analytics candidate at Carnegie Mellon University. Leveraging my strong analytical and writing skills, I am excited to communicate complex data via clear and legible visualizations to improve policymaking processes and engage communities in policy planning and evaluation. 
