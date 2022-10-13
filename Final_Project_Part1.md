@@ -1,5 +1,5 @@
-## Part 1, Final Project
-# Outline and rough sketches 
+# Part 1, Final Project
+## Outline and rough sketches 
 
 #### Want to see more? Check out [Part 2](Final_Project_Part2.md) and [Part 3](Final_Project_Part3.md) of the project! 
 
