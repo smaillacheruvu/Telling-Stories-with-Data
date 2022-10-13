@@ -24,4 +24,4 @@ Compared to the prior two graphs, the third offers a narrower, although perhaps 
 
 <br/>
 
-Finished? Return to the [homepage of the repository.](README.md)
+<b>Finished?</b> Return to the [homepage of the repository.](README.md)
