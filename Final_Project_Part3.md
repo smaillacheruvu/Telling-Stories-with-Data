@@ -1,4 +1,4 @@
-# Final Project, Part 3 
+# Part 3, Final Project 
 ## Finished Product 
 
 #### [Check out the final data story here.](https://carnegiemellon.shorthandstories.com/energy-insecurity/index.html)
