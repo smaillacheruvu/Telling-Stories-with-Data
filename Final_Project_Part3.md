@@ -4,6 +4,7 @@
 #### [Check out the final data story here.](https://carnegiemellon.shorthandstories.com/energy-insecurity/index.html)
 #### Want to see more? Check out [Part 1](Final_Project_Part1.md) and [Part 2](Final_Project_Part2.md) of the project!
 #### Not where you want to be? No worries! Click here to return to the [homepage of the repository.](README.md).<br>
+<br>
 
 
 
