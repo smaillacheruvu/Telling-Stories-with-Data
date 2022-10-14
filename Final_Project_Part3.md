@@ -3,10 +3,7 @@
 
 #### [Check out the final data story here.](https://carnegiemellon.shorthandstories.com/energy-insecurity/index.html)
 #### Want to see more? Check out [Part 1](Final_Project_Part1.md) and [Part 2](Final_Project_Part2.md) of the project!
-#### Not where you want to be? No worries! Click here to return to the [homepage of the repository.](README.md).<br>
-<br>
-
-
+#### Not where you want to be? No worries! Click here to return to the [homepage of the repository.](README.md)<br>
 
 ## Process
 Reflecting on Part 1 and Part 2 of the project, <b>I see that some elements from the initial outline of the project have remained consistent</b>, such as first establishing the emotional stakes of the issue. As a hook into the story, framing energy insecurity in a personal, felt way was something that my interviewees noted that they liked. I’ve also largely adhered to the general flow of my outline from Part 1 and story board form Part 2: emotional hook, demographics, coping strategies, and climate change. From my Part 2, I made a list of “to-do” items to implement in the final version per slide and/or section. This list was incredibly helpful in working my way through my visualizations, allowing me to modify them per my interviewees’ and in-class peer group’s feedback and move to the next.
