@@ -2,8 +2,7 @@
 ## Outline and rough sketches 
 
 #### Want to see more? Check out [Part 2](Final_Project_Part2.md) and [Part 3](Final_Project_Part3.md) of the project! 
-#### Not where you want to be? No worries! Click here to return to the [homepage of the repository.](README.md).
-
+#### Not where you want to be? No worries! Click here to return to the [homepage of the repository.](README.md)<br>
 
 ### Project Summary: 
 In 2020, over 1 in 4 U.S. households experienced energy insecurity, a condition defined as “the inability to meet basic household energy needs” [(Hern&aacute;ndez, 2016)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5114037/). Energy insecurity negatively impacts families’ health, and unsafe indoor temperatures are especially dangerous for elderly people and children [(McGeehin and Mirabelli, 2001)](https://ehp.niehs.nih.gov/doi/10.1289/ehp.109-1240665). There are also racial and ethnic dimensions to energy insecurity: studies have shown that Black and Hispanic households experience energy insecurity at higher rates [(Memmott, et al, 2021)](https://www.nature.com/articles/s41560-020-00763-9). In the face of climate change and increasing severe weather events, we need a strong energy policy system to protect vulnerable families from the negative health and social impacts associated with energy insecurity. 
