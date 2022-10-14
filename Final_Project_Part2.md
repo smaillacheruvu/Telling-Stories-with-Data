@@ -3,8 +3,7 @@
 
 #### You can access the [storyboard here.](https://preview.shorthand.com/ELCy4XNoBlsQ5GUp) 
 #### Want to see more? Check out [Part 1](Final_Project_Part1.md) and [Part 3](Final_Project_Part3.md) of the project! 
-#### Not where you want to be? No worries! Click here to return to the [homepage of the repository.](README.md).
-
+#### Not where you want to be? No worries! Click here to return to the [homepage of the repository.](README.md)<br>
 
 ### Overview: 
 I made this wireframe outline in Shorthand. This was a great way to gain exposure to the tool. There were some aspects of the platform that I found nonintuitive, so I am glad I worked through some of these kinks before laying everything out in the final draft. 
