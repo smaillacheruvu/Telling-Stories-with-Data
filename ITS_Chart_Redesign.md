@@ -1,6 +1,6 @@
 # Assignment 2: Intelligent Transportation Systems Chart Redesign
 
-#### Not where you want to be? No worries! Click here to return to the [homepage of the repository.](README.md).
+#### Not where you want to be? No worries! Click here to return to the [homepage of the repository.](README.md)<br>
 
 
 ## Why Intelligent Transportation Systems (ITS) Chart & Links to the Original Data: 
