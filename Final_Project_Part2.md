@@ -1,7 +1,7 @@
 # Part 2, Final Project
 ## Wireframes in Shorthand and draft charts 
 
-#### You can access the [storyboard here.](https://preview.shorthand.com/ELCy4XNoBlsQ5GUp) 
+#### You can access the draft [storyboard here.](https://preview.shorthand.com/ELCy4XNoBlsQ5GUp) 
 #### Want to see more? Check out [Part 1](Final_Project_Part1.md) and [Part 3](Final_Project_Part3.md) of the project! 
 #### Not where you want to be? No worries! Click here to return to the [homepage of the repository.](README.md)<br>
 
